@@ -1,25 +1,29 @@
 # CodeLab
 
-## 概要
+## Overview
 
-- 備忘録的レポジトリ
-- 特定のプログラミング言語に依存しない実験場
+- A repository serving as a personal memo
+- An experimental playground not tied to any specific programming language
 
-## ディレクトリ構成
+## Environment
+
+- Primarily designed for Mac users, considering both arm64 and Intel chips
+
+## Directory Structure
 
 ```
 CodeLab/
 ├── projects/
-│ ├── 実験名1/
+│ ├── ExperimentName1/
 │ │ ├── README.md
-│ │ ├── (その他のファイルやディレクトリ)
-│ ├── 実験名2/
+│ │ ├── (Other files and directories)
+│ ├── ExperimentName2/
 │ │ ├── README.md
-│ │ ├── (その他のファイルやディレクトリ)
+│ │ ├── (Other files and directories)
 │ ├── ...
 └── README.md
 ```
 
-- `projects/` : 実験ごとにサブディレクトリが作成されるディレクトリ
-- `実験名/` : 各実験用のディレクトリ、実験に関連するファイルやディレクトリを配置
-- 各実験名のディレクトリには、実験に関する説明や手順が記載された README.md ファイルが含まれることが推奨される
+- `projects/` : A directory where subdirectories are created for each experiment
+- `ExperimentName/` : A directory for each experiment, containing files and directories related to the experiment
+- It is recommended to include a README.md file in each experiment directory, describing the experiment and outlining the steps involved
