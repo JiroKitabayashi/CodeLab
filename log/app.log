@@ -1,0 +1,3324 @@
+2023-03-11 11:30:26,452 [INFO] https://httpstat.us/404?sleep=3: 404 (1.05 seconds)
+2023-03-11 11:30:26,461 [INFO] https://httpstat.us/500?sleep=5: 500 (1.06 seconds)
+2023-03-11 11:30:26,474 [INFO] https://httpstat.us/200?sleep=10: 200 (1.07 seconds)
+2023-03-11 11:30:26,476 [INFO] https://httpstat.us/404?sleep=10: 404 (1.07 seconds)
+2023-03-11 11:30:26,703 [INFO] https://httpstat.us/301?sleep=6: 200 (1.30 seconds)
+2023-03-11 11:30:27,082 [INFO] https://httpstat.us/200?sleep=7: 200 (0.63 seconds)
+2023-03-11 11:30:27,168 [INFO] https://httpstat.us/404?sleep=5: 404 (0.69 seconds)
+2023-03-11 11:30:27,274 [INFO] https://httpstat.us/301?sleep=1: 200 (0.81 seconds)
+2023-03-11 11:30:27,301 [INFO] https://httpstat.us/404?sleep=4: 404 (0.60 seconds)
+2023-03-11 11:30:27,329 [INFO] https://httpstat.us/301?sleep=4: 200 (0.85 seconds)
+2023-03-11 11:31:27,547 [INFO] https://httpstat.us/500?sleep=1257: 500 (2.08 seconds)
+2023-03-11 11:31:31,756 [INFO] https://httpstat.us/500?sleep=5460: 500 (6.28 seconds)
+2023-03-11 11:31:32,218 [INFO] https://httpstat.us/200?sleep=5929: 200 (6.74 seconds)
+2023-03-11 11:31:33,260 [INFO] https://httpstat.us/404?sleep=6885: 404 (7.79 seconds)
+2023-03-11 11:31:35,167 [INFO] https://httpstat.us/200?sleep=7042: 200 (7.62 seconds)
+2023-03-11 11:31:35,503 [INFO] https://httpstat.us/500?sleep=9213: 500 (10.03 seconds)
+2023-03-11 11:31:35,602 [INFO] https://httpstat.us/500?sleep=3285: 500 (3.85 seconds)
+2023-03-11 11:31:35,993 [INFO] https://httpstat.us/400?sleep=3210: 400 (3.77 seconds)
+2023-03-11 11:31:37,877 [INFO] https://httpstat.us/200?sleep=2127: 200 (2.71 seconds)
+2023-03-11 11:31:38,234 [INFO] https://httpstat.us/400?sleep=4409: 400 (4.97 seconds)
+2023-03-11 11:33:10,401 [INFO] https://httpstat.us/404?sleep=427: 404 (1.07 seconds)
+2023-03-11 11:33:10,406 [INFO] https://httpstat.us/200?sleep=445: 200 (1.07 seconds)
+2023-03-11 11:33:11,605 [INFO] https://httpstat.us/404?sleep=1579: 404 (2.27 seconds)
+2023-03-11 11:33:11,721 [INFO] https://httpstat.us/400?sleep=1773: 400 (2.39 seconds)
+2023-03-11 11:33:12,509 [INFO] https://httpstat.us/500?sleep=2490: 500 (3.17 seconds)
+2023-03-11 11:33:16,282 [INFO] https://httpstat.us/500?sleep=6336: 500 (6.95 seconds)
+2023-03-11 11:33:16,475 [INFO] https://httpstat.us/500?sleep=6511: 500 (7.14 seconds)
+2023-03-11 11:33:16,581 [INFO] https://httpstat.us/301?sleep=6475: 200 (7.25 seconds)
+2023-03-11 11:33:16,696 [INFO] https://httpstat.us/500?sleep=6740: 500 (7.36 seconds)
+2023-03-11 11:33:18,832 [INFO] https://httpstat.us/500?sleep=8857: 500 (9.50 seconds)
+2023-03-11 14:17:39,284 [INFO] https://httpstat.us/200?sleep=2212: 200 (2.80 seconds)
+2023-03-11 14:17:40,990 [INFO] https://httpstat.us/500?sleep=3891: 500 (4.51 seconds)
+2023-03-11 14:17:42,195 [INFO] https://httpstat.us/404?sleep=5066: 404 (5.71 seconds)
+2023-03-11 14:17:43,995 [INFO] https://httpstat.us/200?sleep=6894: 200 (7.51 seconds)
+2023-03-11 14:17:44,903 [INFO] https://httpstat.us/404?sleep=5048: 404 (5.62 seconds)
+2023-03-11 14:17:45,113 [INFO] https://httpstat.us/500?sleep=8038: 500 (8.63 seconds)
+2023-03-11 14:17:46,183 [INFO] https://httpstat.us/400?sleep=4553: 400 (5.19 seconds)
+2023-03-11 14:17:46,333 [INFO] https://httpstat.us/301?sleep=3411: 200 (4.14 seconds)
+2023-03-11 14:17:50,015 [INFO] https://httpstat.us/500?sleep=4549: 500 (5.11 seconds)
+2023-03-11 14:17:53,155 [INFO] https://httpstat.us/400?sleep=8597: 400 (9.16 seconds)
+2023-03-11 14:19:29,449 [INFO] Parallel Execution
+2023-03-11 14:19:34,410 [INFO] https://httpstat.us/200?sleep=4135: 200 (4.96 seconds)
+2023-03-11 14:19:34,767 [INFO] https://httpstat.us/200?sleep=4494: 200 (5.32 seconds)
+2023-03-11 14:19:35,029 [INFO] https://httpstat.us/301?sleep=4557: 200 (5.58 seconds)
+2023-03-11 14:19:35,631 [INFO] https://httpstat.us/200?sleep=5353: 200 (6.18 seconds)
+2023-03-11 14:19:37,096 [INFO] https://httpstat.us/404?sleep=1495: 404 (2.07 seconds)
+2023-03-11 14:19:38,211 [INFO] https://httpstat.us/404?sleep=7933: 404 (8.76 seconds)
+2023-03-11 14:19:38,932 [INFO] https://httpstat.us/301?sleep=3459: 200 (4.16 seconds)
+2023-03-11 14:19:40,647 [INFO] https://httpstat.us/301?sleep=5506: 200 (6.24 seconds)
+2023-03-11 14:19:41,511 [INFO] https://httpstat.us/404?sleep=5302: 404 (5.88 seconds)
+2023-03-11 14:19:46,886 [INFO] https://httpstat.us/301?sleep=9083: 200 (9.79 seconds)
+2023-03-11 14:19:46,887 [INFO] Total Execution Time: 17.44 seconds
+2023-03-11 14:19:46,887 [INFO] Concurrent Execution
+2023-03-11 14:19:49,038 [INFO] https://httpstat.us/404?sleep=1495: 404 (2.14 seconds)
+2023-03-11 14:19:51,190 [INFO] https://httpstat.us/301?sleep=3459: 200 (4.30 seconds)
+2023-03-11 14:19:51,616 [INFO] https://httpstat.us/200?sleep=4135: 200 (4.73 seconds)
+2023-03-11 14:19:51,969 [INFO] https://httpstat.us/200?sleep=4494: 200 (5.08 seconds)
+2023-03-11 14:19:52,191 [INFO] https://httpstat.us/301?sleep=4557: 200 (5.30 seconds)
+2023-03-11 14:19:52,846 [INFO] https://httpstat.us/200?sleep=5353: 200 (5.96 seconds)
+2023-03-11 14:19:53,158 [INFO] https://httpstat.us/301?sleep=5506: 200 (6.26 seconds)
+2023-03-11 14:19:54,904 [INFO] https://httpstat.us/404?sleep=5302: 404 (8.01 seconds)
+2023-03-11 14:19:55,460 [INFO] https://httpstat.us/404?sleep=7933: 404 (8.57 seconds)
+2023-03-11 14:20:00,991 [INFO] https://httpstat.us/301?sleep=9083: 200 (14.09 seconds)
+2023-03-11 14:20:00,993 [INFO] Total Execution Time: 14.11 seconds
+2023-03-11 14:20:07,604 [INFO] Parallel Execution
+2023-03-11 14:20:09,236 [INFO] https://httpstat.us/500?sleep=1000: 500 (1.63 seconds)
+2023-03-11 14:20:10,227 [INFO] https://httpstat.us/400?sleep=2000: 400 (2.62 seconds)
+2023-03-11 14:20:13,478 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.87 seconds)
+2023-03-11 14:20:14,470 [INFO] https://httpstat.us/301?sleep=6000: 200 (6.86 seconds)
+2023-03-11 14:20:14,804 [INFO] https://httpstat.us/404?sleep=4000: 404 (4.58 seconds)
+2023-03-11 14:20:16,041 [INFO] https://httpstat.us/404?sleep=1000: 404 (1.57 seconds)
+2023-03-11 14:20:17,121 [INFO] https://httpstat.us/500?sleep=3000: 500 (3.64 seconds)
+2023-03-11 14:20:17,247 [INFO] https://httpstat.us/400?sleep=9000: 400 (9.64 seconds)
+2023-03-11 14:20:17,838 [INFO] https://httpstat.us/500?sleep=8000: 500 (8.60 seconds)
+2023-03-11 14:20:20,578 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.77 seconds)
+2023-03-11 14:20:20,578 [INFO] Total Execution Time: 12.97 seconds
+2023-03-11 14:20:20,578 [INFO] Concurrent Execution
+2023-03-11 14:20:22,273 [INFO] https://httpstat.us/500?sleep=1000: 500 (1.69 seconds)
+2023-03-11 14:20:23,247 [INFO] https://httpstat.us/400?sleep=2000: 400 (2.67 seconds)
+2023-03-11 14:20:23,892 [INFO] https://httpstat.us/404?sleep=1000: 404 (3.30 seconds)
+2023-03-11 14:20:24,207 [INFO] https://httpstat.us/500?sleep=3000: 500 (3.62 seconds)
+2023-03-11 14:20:25,240 [INFO] https://httpstat.us/404?sleep=4000: 404 (4.65 seconds)
+2023-03-11 14:20:26,416 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.83 seconds)
+2023-03-11 14:20:27,615 [INFO] https://httpstat.us/301?sleep=6000: 200 (7.03 seconds)
+2023-03-11 14:20:29,077 [INFO] https://httpstat.us/400?sleep=5000: 400 (8.48 seconds)
+2023-03-11 14:20:29,195 [INFO] https://httpstat.us/500?sleep=8000: 500 (8.61 seconds)
+2023-03-11 14:20:30,181 [INFO] https://httpstat.us/400?sleep=9000: 400 (9.60 seconds)
+2023-03-11 14:20:30,182 [INFO] Total Execution Time: 9.60 seconds
+2023-03-11 14:21:44,140 [INFO] Parallel Execution
+2023-03-11 14:21:45,845 [INFO] https://httpstat.us/400?sleep=1000: 400 (1.70 seconds)
+2023-03-11 14:21:47,061 [INFO] https://httpstat.us/301?sleep=2000: 200 (2.92 seconds)
+2023-03-11 14:21:47,852 [INFO] https://httpstat.us/400?sleep=3000: 400 (3.71 seconds)
+2023-03-11 14:21:48,998 [INFO] https://httpstat.us/301?sleep=4000: 200 (4.85 seconds)
+2023-03-11 14:21:50,728 [INFO] https://httpstat.us/500?sleep=6000: 500 (6.59 seconds)
+2023-03-11 14:21:50,907 [INFO] https://httpstat.us/301?sleep=6000: 200 (6.77 seconds)
+2023-03-11 14:21:51,774 [INFO] https://httpstat.us/200?sleep=7000: 200 (7.63 seconds)
+2023-03-11 14:21:54,777 [INFO] https://httpstat.us/400?sleep=10000: 400 (10.63 seconds)
+2023-03-11 14:21:54,781 [INFO] https://httpstat.us/200?sleep=10000: 200 (10.63 seconds)
+2023-03-11 14:21:54,786 [INFO] https://httpstat.us/200?sleep=10000: 200 (10.64 seconds)
+2023-03-11 14:21:54,786 [INFO] Total Execution Time: 10.65 seconds
+2023-03-11 14:21:54,786 [INFO] Concurrent Execution
+2023-03-11 14:21:56,360 [INFO] https://httpstat.us/400?sleep=1000: 400 (1.57 seconds)
+2023-03-11 14:21:57,632 [INFO] https://httpstat.us/301?sleep=2000: 200 (2.83 seconds)
+2023-03-11 14:21:58,386 [INFO] https://httpstat.us/400?sleep=3000: 400 (3.59 seconds)
+2023-03-11 14:22:01,139 [INFO] https://httpstat.us/301?sleep=4000: 200 (6.34 seconds)
+2023-03-11 14:22:01,355 [INFO] https://httpstat.us/500?sleep=6000: 500 (6.57 seconds)
+2023-03-11 14:22:01,509 [INFO] https://httpstat.us/301?sleep=6000: 200 (6.72 seconds)
+2023-03-11 14:22:02,380 [INFO] https://httpstat.us/200?sleep=7000: 200 (7.59 seconds)
+2023-03-11 14:22:05,415 [INFO] https://httpstat.us/400?sleep=10000: 400 (10.62 seconds)
+2023-03-11 14:22:05,415 [INFO] https://httpstat.us/200?sleep=10000: 200 (10.63 seconds)
+2023-03-11 14:22:08,223 [INFO] https://httpstat.us/200?sleep=10000: 200 (13.42 seconds)
+2023-03-11 14:22:08,224 [INFO] Total Execution Time: 13.44 seconds
+2023-03-11 14:24:03,106 [INFO] Parallel Execution
+2023-03-11 14:24:08,737 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.63 seconds)
+2023-03-11 14:24:10,750 [INFO] https://httpstat.us/200?sleep=7000: 200 (7.64 seconds)
+2023-03-11 14:24:11,756 [INFO] https://httpstat.us/500?sleep=8000: 500 (8.65 seconds)
+2023-03-11 14:24:11,899 [INFO] https://httpstat.us/301?sleep=8000: 200 (8.79 seconds)
+2023-03-11 14:24:12,758 [INFO] https://httpstat.us/500?sleep=9000: 500 (9.65 seconds)
+2023-03-11 14:24:12,761 [INFO] https://httpstat.us/400?sleep=9000: 400 (9.64 seconds)
+2023-03-11 14:24:12,904 [INFO] https://httpstat.us/301?sleep=9000: 200 (9.79 seconds)
+2023-03-11 14:24:13,762 [INFO] https://httpstat.us/500?sleep=10000: 500 (10.65 seconds)
+2023-03-11 14:24:13,763 [INFO] https://httpstat.us/200?sleep=10000: 200 (10.65 seconds)
+2023-03-11 14:24:13,767 [INFO] https://httpstat.us/500?sleep=10000: 500 (10.66 seconds)
+2023-03-11 14:24:13,768 [INFO] Total Execution Time: 10.66 seconds
+2023-03-11 14:24:13,769 [INFO] Concurrent Execution
+2023-03-11 14:24:19,369 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.60 seconds)
+2023-03-11 14:24:21,388 [INFO] https://httpstat.us/200?sleep=7000: 200 (7.62 seconds)
+2023-03-11 14:24:22,392 [INFO] https://httpstat.us/500?sleep=8000: 500 (8.62 seconds)
+2023-03-11 14:24:22,537 [INFO] https://httpstat.us/301?sleep=8000: 200 (8.76 seconds)
+2023-03-11 14:24:23,494 [INFO] https://httpstat.us/500?sleep=9000: 500 (9.72 seconds)
+2023-03-11 14:24:24,400 [INFO] https://httpstat.us/200?sleep=10000: 200 (10.62 seconds)
+2023-03-11 14:24:24,400 [INFO] https://httpstat.us/500?sleep=10000: 500 (10.63 seconds)
+2023-03-11 14:24:24,405 [INFO] https://httpstat.us/500?sleep=10000: 500 (10.63 seconds)
+2023-03-11 14:24:29,190 [INFO] https://httpstat.us/301?sleep=9000: 200 (15.41 seconds)
+2023-03-11 14:24:30,947 [INFO] https://httpstat.us/400?sleep=9000: 400 (17.17 seconds)
+2023-03-11 14:24:30,948 [INFO] Total Execution Time: 17.18 seconds
+2023-03-12 18:48:51,184 [INFO] Parallel Execution
+2023-03-12 18:48:57,541 [INFO] https://httpstat.us/404?sleep=5000: 404 (6.27 seconds)
+2023-03-12 18:48:57,687 [INFO] https://httpstat.us/301?sleep=5000: 200 (6.42 seconds)
+2023-03-12 18:48:58,545 [INFO] https://httpstat.us/404?sleep=6000: 404 (7.27 seconds)
+2023-03-12 18:48:58,692 [INFO] https://httpstat.us/301?sleep=6000: 200 (7.42 seconds)
+2023-03-12 18:48:58,695 [INFO] https://httpstat.us/301?sleep=6000: 200 (7.42 seconds)
+2023-03-12 18:48:59,468 [INFO] https://httpstat.us/404?sleep=7000: 404 (8.20 seconds)
+2023-03-12 18:49:01,556 [INFO] https://httpstat.us/400?sleep=9000: 400 (10.28 seconds)
+2023-03-12 18:49:01,559 [INFO] https://httpstat.us/200?sleep=9000: 200 (10.29 seconds)
+2023-03-12 18:49:01,706 [INFO] https://httpstat.us/301?sleep=9000: 200 (10.43 seconds)
+2023-03-12 18:49:02,560 [INFO] https://httpstat.us/400?sleep=10000: 400 (11.29 seconds)
+2023-03-12 18:49:02,560 [INFO] Total Execution Time: 11.31 seconds
+2023-03-12 18:49:02,560 [INFO] Concurrent Execution
+2023-03-12 18:49:08,180 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.61 seconds)
+2023-03-12 18:49:08,329 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.77 seconds)
+2023-03-12 18:49:09,153 [INFO] https://httpstat.us/404?sleep=6000: 404 (6.59 seconds)
+2023-03-12 18:49:09,284 [INFO] https://httpstat.us/301?sleep=6000: 200 (6.72 seconds)
+2023-03-12 18:49:09,288 [INFO] https://httpstat.us/301?sleep=6000: 200 (6.72 seconds)
+2023-03-12 18:49:12,195 [INFO] https://httpstat.us/400?sleep=9000: 400 (9.62 seconds)
+2023-03-12 18:49:12,338 [INFO] https://httpstat.us/301?sleep=9000: 200 (9.77 seconds)
+2023-03-12 18:49:13,196 [INFO] https://httpstat.us/400?sleep=10000: 400 (10.63 seconds)
+2023-03-12 18:49:15,738 [INFO] https://httpstat.us/404?sleep=7000: 404 (13.16 seconds)
+2023-03-12 18:49:18,013 [INFO] https://httpstat.us/200?sleep=9000: 200 (15.44 seconds)
+2023-03-12 18:49:18,015 [INFO] Total Execution Time: 15.45 seconds
+2023-03-12 18:54:53,247 [INFO] https://httpstat.us/404?sleep=5000 returned status code 404
+2023-03-12 18:54:53,248 [INFO] 404 Not Found
+2023-03-12 18:54:53,248 [INFO] https://httpstat.us/404?sleep=5000 returned status code 404
+2023-03-12 18:54:53,248 [INFO] 404 Not Found
+2023-03-12 18:54:56,243 [INFO] https://httpstat.us/404?sleep=8000 returned status code 404
+2023-03-12 18:54:56,243 [INFO] 404 Not Found
+2023-03-12 18:54:57,305 [INFO] https://httpstat.us/200?sleep=9000 returned status code 200
+2023-03-12 18:54:57,305 [INFO] 200 OK
+2023-03-12 18:54:58,242 [INFO] https://httpstat.us/500?sleep=10000 returned status code 500
+2023-03-12 18:54:58,242 [INFO] 500 Internal Server Error
+2023-03-12 18:55:02,924 [INFO] https://httpstat.us/500?sleep=5000 returned status code 500
+2023-03-12 18:55:02,924 [INFO] 500 Internal Server Error
+2023-03-12 18:55:03,830 [INFO] https://httpstat.us/200?sleep=10000 returned status code 200
+2023-03-12 18:55:03,830 [INFO] 200 OK
+2023-03-12 18:55:03,832 [INFO] https://httpstat.us/400?sleep=5000 returned status code 400
+2023-03-12 18:55:03,833 [INFO] 400 Bad Request
+2023-03-12 18:55:03,977 [INFO] https://httpstat.us/301?sleep=10000 returned status code 200
+2023-03-12 18:55:03,977 [INFO] <!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>httpstat.us</title>
+    <link href="/css/main.css" rel="stylesheet" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <div id="content">
+        <header>
+            <h1 id="title">httpstat.us</h1>
+        </header>
+        <div id="view">
+            
+<p>This is a super simple service for generating different HTTP codes.</p>
+<p>It's useful for testing how your own scripts deal with varying responses.</p>
+<p>
+    Just add the status code you want to the URL, like this:
+    <a href="/200">httpstat.us/200</a>
+</p>
+<p>We'll return a response like this:</p>
+<code>
+    HTTP/1.1 {status code} {status description}
+    Content-Type: text/plain or application/json
+    Content-Length: {something}
+    {any custom response headers}
+
+    {status code} {status description}
+    {list of any custom response headers we added}
+</code>
+
+<p>
+    To get a JSON response back, you need to ensure that the Accept header contains 'application/json'. Then we'll JSON encode the response and send the Content-Type header accordingly.
+</p>
+
+<p>
+    To get a random response back, use the <code class="inline">random/{range}</code> endpoint,
+    for example
+    <a href="/Random/200,201,500-504">httpstat.us/random/200,201,500-504</a>.
+    You can duplicate ranges in order to increase their probability.
+</p>
+
+<p>
+    If you want a delay on the response add a query string or provide a header of <code>X-HttpStatus-Sleep</code> for the sleep duration (the time in ms, max 5 minutes*), like this:
+    <a href="/200?sleep=5000">httpstat.us/200?sleep=5000</a>
+    <br />
+    <em>*When using the hosted instance the timeout is actually 230 seconds, which is the max timeout allowed by an Azure App Service (see <a href="https://social.msdn.microsoft.com/Forums/en-US/05f254a6-9b34-4eb2-a5f7-2a82fb40135f/time-out-after-230-seconds?forum=windowsazurewebsitespreview" target="_blank">this thread post</a>). If you host it yourself expect the limits to be different.</em>
+</p>
+
+<p>
+    If you want to return additional headers to the client, you can send them in the request with the <code>X-HttpStatus-Response-</code> prefix. A header of <code>X-HttpStatus-Response-Foo: Bar</code> will append the <code>Foo: Bar</code> header in the response.
+</p>
+
+<p>Here are all the codes we support (and any special notes):</p>
+<dl>
+        <dt><a href="/100">100</a></dt>
+        <dd>
+Continue        </dd>
+        <dt><a href="/101">101</a></dt>
+        <dd>
+Switching Protocols        </dd>
+        <dt><a href="/102">102</a></dt>
+        <dd>
+Processing        </dd>
+        <dt><a href="/103">103</a></dt>
+        <dd>
+Early Hints        </dd>
+        <dt><a href="/200">200</a></dt>
+        <dd>
+OK        </dd>
+        <dt><a href="/201">201</a></dt>
+        <dd>
+Created        </dd>
+        <dt><a href="/202">202</a></dt>
+        <dd>
+Accepted        </dd>
+        <dt><a href="/203">203</a></dt>
+        <dd>
+Non-Authoritative Information        </dd>
+        <dt><a href="/204">204</a></dt>
+        <dd>
+No Content        </dd>
+        <dt><a href="/205">205</a></dt>
+        <dd>
+Reset Content        </dd>
+        <dt><a href="/206">206</a></dt>
+        <dd>
+Partial Content        </dd>
+        <dt><a href="/207">207</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc4918" target="_blank" title="Multi-Status">Multi-Status</a>
+        </dd>
+        <dt><a href="/208">208</a></dt>
+        <dd>
+Already Reported        </dd>
+        <dt><a href="/226">226</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc3229#section-10.4.1" target="_blank" title="IM Used">IM Used</a>
+        </dd>
+        <dt><a href="/300">300</a></dt>
+        <dd>
+Multiple Choices        </dd>
+        <dt><a href="/301">301</a></dt>
+        <dd>
+Moved Permanently        </dd>
+        <dt><a href="/302">302</a></dt>
+        <dd>
+Found        </dd>
+        <dt><a href="/303">303</a></dt>
+        <dd>
+See Other        </dd>
+        <dt><a href="/304">304</a></dt>
+        <dd>
+Not Modified        </dd>
+        <dt><a href="/305">305</a></dt>
+        <dd>
+Use Proxy        </dd>
+        <dt><a href="/306">306</a></dt>
+        <dd>
+Switch Proxy        </dd>
+        <dt><a href="/307">307</a></dt>
+        <dd>
+Temporary Redirect        </dd>
+        <dt><a href="/308">308</a></dt>
+        <dd>
+Permanent Redirect        </dd>
+        <dt><a href="/400">400</a></dt>
+        <dd>
+Bad Request        </dd>
+        <dt><a href="/401">401</a></dt>
+        <dd>
+Unauthorized        </dd>
+        <dt><a href="/402">402</a></dt>
+        <dd>
+Payment Required        </dd>
+        <dt><a href="/403">403</a></dt>
+        <dd>
+Forbidden        </dd>
+        <dt><a href="/404">404</a></dt>
+        <dd>
+Not Found        </dd>
+        <dt><a href="/405">405</a></dt>
+        <dd>
+Method Not Allowed        </dd>
+        <dt><a href="/406">406</a></dt>
+        <dd>
+Not Acceptable        </dd>
+        <dt><a href="/407">407</a></dt>
+        <dd>
+Proxy Authentication Required        </dd>
+        <dt><a href="/408">408</a></dt>
+        <dd>
+Request Timeout        </dd>
+        <dt><a href="/409">409</a></dt>
+        <dd>
+Conflict        </dd>
+        <dt><a href="/410">410</a></dt>
+        <dd>
+Gone        </dd>
+        <dt><a href="/411">411</a></dt>
+        <dd>
+Length Required        </dd>
+        <dt><a href="/412">412</a></dt>
+        <dd>
+Precondition Failed        </dd>
+        <dt><a href="/413">413</a></dt>
+        <dd>
+Request Entity Too Large        </dd>
+        <dt><a href="/414">414</a></dt>
+        <dd>
+Request-URI Too Long        </dd>
+        <dt><a href="/415">415</a></dt>
+        <dd>
+Unsupported Media Type        </dd>
+        <dt><a href="/416">416</a></dt>
+        <dd>
+Requested Range Not Satisfiable        </dd>
+        <dt><a href="/417">417</a></dt>
+        <dd>
+Expectation Failed        </dd>
+        <dt><a href="/418">418</a></dt>
+        <dd>
+                <a href="https://www.ietf.org/rfc/rfc2324.txt" target="_blank" title="I&#x27;m a teapot">I&#x27;m a teapot</a>
+        </dd>
+        <dt><a href="/421">421</a></dt>
+        <dd>
+Misdirected Request        </dd>
+        <dt><a href="/422">422</a></dt>
+        <dd>
+Unprocessable Entity        </dd>
+        <dt><a href="/423">423</a></dt>
+        <dd>
+Locked        </dd>
+        <dt><a href="/424">424</a></dt>
+        <dd>
+Failed Dependency        </dd>
+        <dt><a href="/425">425</a></dt>
+        <dd>
+Too Early        </dd>
+        <dt><a href="/426">426</a></dt>
+        <dd>
+Upgrade Required        </dd>
+        <dt><a href="/428">428</a></dt>
+        <dd>
+Precondition Required        </dd>
+        <dt><a href="/429">429</a></dt>
+        <dd>
+Too Many Requests        </dd>
+        <dt><a href="/431">431</a></dt>
+        <dd>
+Request Header Fields Too Large        </dd>
+        <dt><a href="/451">451</a></dt>
+        <dd>
+Unavailable For Legal Reasons        </dd>
+        <dt><a href="/500">500</a></dt>
+        <dd>
+Internal Server Error        </dd>
+        <dt><a href="/501">501</a></dt>
+        <dd>
+Not Implemented        </dd>
+        <dt><a href="/502">502</a></dt>
+        <dd>
+Bad Gateway        </dd>
+        <dt><a href="/503">503</a></dt>
+        <dd>
+Service Unavailable        </dd>
+        <dt><a href="/504">504</a></dt>
+        <dd>
+Gateway Timeout        </dd>
+        <dt><a href="/505">505</a></dt>
+        <dd>
+HTTP Version Not Supported        </dd>
+        <dt><a href="/506">506</a></dt>
+        <dd>
+Variant Also Negotiates        </dd>
+        <dt><a href="/507">507</a></dt>
+        <dd>
+Insufficient Storage        </dd>
+        <dt><a href="/508">508</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc5842" target="_blank" title="Loop Detected">Loop Detected</a>
+        </dd>
+        <dt><a href="/510">510</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc2774" target="_blank" title="Not Extended">Not Extended</a>
+        </dd>
+        <dt><a href="/511">511</a></dt>
+        <dd>
+Network Authentication Required        </dd>
+        <dt><a href="/419">419</a></dt>
+        <dd>
+CSRF Token Missong or Expired (non-standard status code)        </dd>
+        <dt><a href="/420">420</a></dt>
+        <dd>
+Enhance Your Calm (non-standard status code)        </dd>
+        <dt><a href="/440">440</a></dt>
+        <dd>
+Login Time-out (non-standard status code)        </dd>
+        <dt><a href="/444">444</a></dt>
+        <dd>
+No Response (non-standard status code)        </dd>
+        <dt><a href="/449">449</a></dt>
+        <dd>
+Retry With (non-standard status code)        </dd>
+        <dt><a href="/450">450</a></dt>
+        <dd>
+Blocked by Windows Parental Controls (non-standard status code)        </dd>
+        <dt><a href="/460">460</a></dt>
+        <dd>
+Client closed the connection with AWS Elastic Load Balancer (non-standard status code)        </dd>
+        <dt><a href="/463">463</a></dt>
+        <dd>
+The load balancer received an X-Forwarded-For request header with more than 30 IP addresses (non-standard status code)        </dd>
+        <dt><a href="/494">494</a></dt>
+        <dd>
+Request header too large (non-standard status code)        </dd>
+        <dt><a href="/495">495</a></dt>
+        <dd>
+SSL Certificate Error (non-standard status code)        </dd>
+        <dt><a href="/496">496</a></dt>
+        <dd>
+SSL Certificate Required (non-standard status code)        </dd>
+        <dt><a href="/497">497</a></dt>
+        <dd>
+HTTP Request Sent to HTTPS Port (non-standard status code)        </dd>
+        <dt><a href="/498">498</a></dt>
+        <dd>
+Invalid Token (Esri) (non-standard status code)        </dd>
+        <dt><a href="/499">499</a></dt>
+        <dd>
+Client Closed Request (non-standard status code)        </dd>
+        <dt><a href="/520">520</a></dt>
+        <dd>
+Web Server Returned an Unknown Error (non-standard status code)        </dd>
+        <dt><a href="/521">521</a></dt>
+        <dd>
+Web Server Is Down (non-standard status code)        </dd>
+        <dt><a href="/522">522</a></dt>
+        <dd>
+Connection Timed out (non-standard status code)        </dd>
+        <dt><a href="/523">523</a></dt>
+        <dd>
+Origin Is Unreachable (non-standard status code)        </dd>
+        <dt><a href="/524">524</a></dt>
+        <dd>
+A Timeout Occurred (non-standard status code)        </dd>
+        <dt><a href="/525">525</a></dt>
+        <dd>
+SSL Handshake Failed (non-standard status code)        </dd>
+        <dt><a href="/526">526</a></dt>
+        <dd>
+Invalid SSL Certificate (non-standard status code)        </dd>
+        <dt><a href="/527">527</a></dt>
+        <dd>
+Railgun Error (non-standard status code)        </dd>
+        <dt><a href="/530">530</a></dt>
+        <dd>
+Origin DNS Error (non-standard status code)        </dd>
+        <dt><a href="/561">561</a></dt>
+        <dd>
+Unauthorized (AWS Elastic Load Balancer) (non-standard status code)        </dd>
+</dl>
+<p>If you need to enable <a href="https://developer.mozilla.org/docs/Web/HTTP/CORS" target="_blank" rel="noopener">CORS</a>, all endpoints have been configured to allow all origins, headers, and HTTP methods.</p>
+
+<p>If you send any other three digit number that's not in that list, we'll return it too. Or, <a href="https://github.com/aaronpowell/httpstatus">send us a pull request</a> to add full support for a new code.</p>
+<p>Enjoy!</p>
+        </div>
+        <footer>
+            Created by
+            <a href="https://www.aaron-powell.com">Aaron Powell</a>
+            and
+            <a href="https://tath.am">Tatham Oddie</a>
+            , hosted on an
+            <a href="https://azure.microsoft.com/en-us/services/app-service/">Azure App Service</a>,
+            open sourced on
+            <a href="https://github.com/aaronpowell/httpstatus" title="GitHub">GitHub</a>.
+            <br>
+
+            <strong>We don't capture or store any data about the requests you make.</strong>
+        </footer>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-9207152-3', 'auto');
+            ga('send', 'pageview');
+        </script>
+    </div>
+</body>
+</html>
+
+2023-03-12 18:55:06,839 [INFO] https://httpstat.us/400?sleep=10000 returned status code 400
+2023-03-12 18:55:06,839 [INFO] 400 Bad Request
+2023-03-12 19:50:14,652 [INFO] function_start
+2023-03-12 19:50:14,655 [INFO] generator is created
+2023-03-12 19:50:20,817 [INFO] try to access url: https://httpstat.us/500?sleep=5000
+2023-03-12 19:50:20,820 [INFO] https://httpstat.us/500?sleep=5000 returned status code 500
+2023-03-12 19:50:20,820 [INFO] 500 Internal Server Error
+2023-03-12 19:50:20,821 [INFO] try to access url: https://httpstat.us/404?sleep=5000
+2023-03-12 19:50:20,821 [INFO] https://httpstat.us/404?sleep=5000 returned status code 404
+2023-03-12 19:50:20,821 [INFO] 404 Not Found
+2023-03-12 19:50:21,033 [INFO] try to access url: https://httpstat.us/301?sleep=5000
+2023-03-12 19:50:21,033 [INFO] https://httpstat.us/301?sleep=5000 returned status code 200
+2023-03-12 19:50:21,033 [INFO] <!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>httpstat.us</title>
+    <link href="/css/main.css" rel="stylesheet" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <div id="content">
+        <header>
+            <h1 id="title">httpstat.us</h1>
+        </header>
+        <div id="view">
+            
+<p>This is a super simple service for generating different HTTP codes.</p>
+<p>It's useful for testing how your own scripts deal with varying responses.</p>
+<p>
+    Just add the status code you want to the URL, like this:
+    <a href="/200">httpstat.us/200</a>
+</p>
+<p>We'll return a response like this:</p>
+<code>
+    HTTP/1.1 {status code} {status description}
+    Content-Type: text/plain or application/json
+    Content-Length: {something}
+    {any custom response headers}
+
+    {status code} {status description}
+    {list of any custom response headers we added}
+</code>
+
+<p>
+    To get a JSON response back, you need to ensure that the Accept header contains 'application/json'. Then we'll JSON encode the response and send the Content-Type header accordingly.
+</p>
+
+<p>
+    To get a random response back, use the <code class="inline">random/{range}</code> endpoint,
+    for example
+    <a href="/Random/200,201,500-504">httpstat.us/random/200,201,500-504</a>.
+    You can duplicate ranges in order to increase their probability.
+</p>
+
+<p>
+    If you want a delay on the response add a query string or provide a header of <code>X-HttpStatus-Sleep</code> for the sleep duration (the time in ms, max 5 minutes*), like this:
+    <a href="/200?sleep=5000">httpstat.us/200?sleep=5000</a>
+    <br />
+    <em>*When using the hosted instance the timeout is actually 230 seconds, which is the max timeout allowed by an Azure App Service (see <a href="https://social.msdn.microsoft.com/Forums/en-US/05f254a6-9b34-4eb2-a5f7-2a82fb40135f/time-out-after-230-seconds?forum=windowsazurewebsitespreview" target="_blank">this thread post</a>). If you host it yourself expect the limits to be different.</em>
+</p>
+
+<p>
+    If you want to return additional headers to the client, you can send them in the request with the <code>X-HttpStatus-Response-</code> prefix. A header of <code>X-HttpStatus-Response-Foo: Bar</code> will append the <code>Foo: Bar</code> header in the response.
+</p>
+
+<p>Here are all the codes we support (and any special notes):</p>
+<dl>
+        <dt><a href="/100">100</a></dt>
+        <dd>
+Continue        </dd>
+        <dt><a href="/101">101</a></dt>
+        <dd>
+Switching Protocols        </dd>
+        <dt><a href="/102">102</a></dt>
+        <dd>
+Processing        </dd>
+        <dt><a href="/103">103</a></dt>
+        <dd>
+Early Hints        </dd>
+        <dt><a href="/200">200</a></dt>
+        <dd>
+OK        </dd>
+        <dt><a href="/201">201</a></dt>
+        <dd>
+Created        </dd>
+        <dt><a href="/202">202</a></dt>
+        <dd>
+Accepted        </dd>
+        <dt><a href="/203">203</a></dt>
+        <dd>
+Non-Authoritative Information        </dd>
+        <dt><a href="/204">204</a></dt>
+        <dd>
+No Content        </dd>
+        <dt><a href="/205">205</a></dt>
+        <dd>
+Reset Content        </dd>
+        <dt><a href="/206">206</a></dt>
+        <dd>
+Partial Content        </dd>
+        <dt><a href="/207">207</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc4918" target="_blank" title="Multi-Status">Multi-Status</a>
+        </dd>
+        <dt><a href="/208">208</a></dt>
+        <dd>
+Already Reported        </dd>
+        <dt><a href="/226">226</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc3229#section-10.4.1" target="_blank" title="IM Used">IM Used</a>
+        </dd>
+        <dt><a href="/300">300</a></dt>
+        <dd>
+Multiple Choices        </dd>
+        <dt><a href="/301">301</a></dt>
+        <dd>
+Moved Permanently        </dd>
+        <dt><a href="/302">302</a></dt>
+        <dd>
+Found        </dd>
+        <dt><a href="/303">303</a></dt>
+        <dd>
+See Other        </dd>
+        <dt><a href="/304">304</a></dt>
+        <dd>
+Not Modified        </dd>
+        <dt><a href="/305">305</a></dt>
+        <dd>
+Use Proxy        </dd>
+        <dt><a href="/306">306</a></dt>
+        <dd>
+Switch Proxy        </dd>
+        <dt><a href="/307">307</a></dt>
+        <dd>
+Temporary Redirect        </dd>
+        <dt><a href="/308">308</a></dt>
+        <dd>
+Permanent Redirect        </dd>
+        <dt><a href="/400">400</a></dt>
+        <dd>
+Bad Request        </dd>
+        <dt><a href="/401">401</a></dt>
+        <dd>
+Unauthorized        </dd>
+        <dt><a href="/402">402</a></dt>
+        <dd>
+Payment Required        </dd>
+        <dt><a href="/403">403</a></dt>
+        <dd>
+Forbidden        </dd>
+        <dt><a href="/404">404</a></dt>
+        <dd>
+Not Found        </dd>
+        <dt><a href="/405">405</a></dt>
+        <dd>
+Method Not Allowed        </dd>
+        <dt><a href="/406">406</a></dt>
+        <dd>
+Not Acceptable        </dd>
+        <dt><a href="/407">407</a></dt>
+        <dd>
+Proxy Authentication Required        </dd>
+        <dt><a href="/408">408</a></dt>
+        <dd>
+Request Timeout        </dd>
+        <dt><a href="/409">409</a></dt>
+        <dd>
+Conflict        </dd>
+        <dt><a href="/410">410</a></dt>
+        <dd>
+Gone        </dd>
+        <dt><a href="/411">411</a></dt>
+        <dd>
+Length Required        </dd>
+        <dt><a href="/412">412</a></dt>
+        <dd>
+Precondition Failed        </dd>
+        <dt><a href="/413">413</a></dt>
+        <dd>
+Request Entity Too Large        </dd>
+        <dt><a href="/414">414</a></dt>
+        <dd>
+Request-URI Too Long        </dd>
+        <dt><a href="/415">415</a></dt>
+        <dd>
+Unsupported Media Type        </dd>
+        <dt><a href="/416">416</a></dt>
+        <dd>
+Requested Range Not Satisfiable        </dd>
+        <dt><a href="/417">417</a></dt>
+        <dd>
+Expectation Failed        </dd>
+        <dt><a href="/418">418</a></dt>
+        <dd>
+                <a href="https://www.ietf.org/rfc/rfc2324.txt" target="_blank" title="I&#x27;m a teapot">I&#x27;m a teapot</a>
+        </dd>
+        <dt><a href="/421">421</a></dt>
+        <dd>
+Misdirected Request        </dd>
+        <dt><a href="/422">422</a></dt>
+        <dd>
+Unprocessable Entity        </dd>
+        <dt><a href="/423">423</a></dt>
+        <dd>
+Locked        </dd>
+        <dt><a href="/424">424</a></dt>
+        <dd>
+Failed Dependency        </dd>
+        <dt><a href="/425">425</a></dt>
+        <dd>
+Too Early        </dd>
+        <dt><a href="/426">426</a></dt>
+        <dd>
+Upgrade Required        </dd>
+        <dt><a href="/428">428</a></dt>
+        <dd>
+Precondition Required        </dd>
+        <dt><a href="/429">429</a></dt>
+        <dd>
+Too Many Requests        </dd>
+        <dt><a href="/431">431</a></dt>
+        <dd>
+Request Header Fields Too Large        </dd>
+        <dt><a href="/451">451</a></dt>
+        <dd>
+Unavailable For Legal Reasons        </dd>
+        <dt><a href="/500">500</a></dt>
+        <dd>
+Internal Server Error        </dd>
+        <dt><a href="/501">501</a></dt>
+        <dd>
+Not Implemented        </dd>
+        <dt><a href="/502">502</a></dt>
+        <dd>
+Bad Gateway        </dd>
+        <dt><a href="/503">503</a></dt>
+        <dd>
+Service Unavailable        </dd>
+        <dt><a href="/504">504</a></dt>
+        <dd>
+Gateway Timeout        </dd>
+        <dt><a href="/505">505</a></dt>
+        <dd>
+HTTP Version Not Supported        </dd>
+        <dt><a href="/506">506</a></dt>
+        <dd>
+Variant Also Negotiates        </dd>
+        <dt><a href="/507">507</a></dt>
+        <dd>
+Insufficient Storage        </dd>
+        <dt><a href="/508">508</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc5842" target="_blank" title="Loop Detected">Loop Detected</a>
+        </dd>
+        <dt><a href="/510">510</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc2774" target="_blank" title="Not Extended">Not Extended</a>
+        </dd>
+        <dt><a href="/511">511</a></dt>
+        <dd>
+Network Authentication Required        </dd>
+        <dt><a href="/419">419</a></dt>
+        <dd>
+CSRF Token Missong or Expired (non-standard status code)        </dd>
+        <dt><a href="/420">420</a></dt>
+        <dd>
+Enhance Your Calm (non-standard status code)        </dd>
+        <dt><a href="/440">440</a></dt>
+        <dd>
+Login Time-out (non-standard status code)        </dd>
+        <dt><a href="/444">444</a></dt>
+        <dd>
+No Response (non-standard status code)        </dd>
+        <dt><a href="/449">449</a></dt>
+        <dd>
+Retry With (non-standard status code)        </dd>
+        <dt><a href="/450">450</a></dt>
+        <dd>
+Blocked by Windows Parental Controls (non-standard status code)        </dd>
+        <dt><a href="/460">460</a></dt>
+        <dd>
+Client closed the connection with AWS Elastic Load Balancer (non-standard status code)        </dd>
+        <dt><a href="/463">463</a></dt>
+        <dd>
+The load balancer received an X-Forwarded-For request header with more than 30 IP addresses (non-standard status code)        </dd>
+        <dt><a href="/494">494</a></dt>
+        <dd>
+Request header too large (non-standard status code)        </dd>
+        <dt><a href="/495">495</a></dt>
+        <dd>
+SSL Certificate Error (non-standard status code)        </dd>
+        <dt><a href="/496">496</a></dt>
+        <dd>
+SSL Certificate Required (non-standard status code)        </dd>
+        <dt><a href="/497">497</a></dt>
+        <dd>
+HTTP Request Sent to HTTPS Port (non-standard status code)        </dd>
+        <dt><a href="/498">498</a></dt>
+        <dd>
+Invalid Token (Esri) (non-standard status code)        </dd>
+        <dt><a href="/499">499</a></dt>
+        <dd>
+Client Closed Request (non-standard status code)        </dd>
+        <dt><a href="/520">520</a></dt>
+        <dd>
+Web Server Returned an Unknown Error (non-standard status code)        </dd>
+        <dt><a href="/521">521</a></dt>
+        <dd>
+Web Server Is Down (non-standard status code)        </dd>
+        <dt><a href="/522">522</a></dt>
+        <dd>
+Connection Timed out (non-standard status code)        </dd>
+        <dt><a href="/523">523</a></dt>
+        <dd>
+Origin Is Unreachable (non-standard status code)        </dd>
+        <dt><a href="/524">524</a></dt>
+        <dd>
+A Timeout Occurred (non-standard status code)        </dd>
+        <dt><a href="/525">525</a></dt>
+        <dd>
+SSL Handshake Failed (non-standard status code)        </dd>
+        <dt><a href="/526">526</a></dt>
+        <dd>
+Invalid SSL Certificate (non-standard status code)        </dd>
+        <dt><a href="/527">527</a></dt>
+        <dd>
+Railgun Error (non-standard status code)        </dd>
+        <dt><a href="/530">530</a></dt>
+        <dd>
+Origin DNS Error (non-standard status code)        </dd>
+        <dt><a href="/561">561</a></dt>
+        <dd>
+Unauthorized (AWS Elastic Load Balancer) (non-standard status code)        </dd>
+</dl>
+<p>If you need to enable <a href="https://developer.mozilla.org/docs/Web/HTTP/CORS" target="_blank" rel="noopener">CORS</a>, all endpoints have been configured to allow all origins, headers, and HTTP methods.</p>
+
+<p>If you send any other three digit number that's not in that list, we'll return it too. Or, <a href="https://github.com/aaronpowell/httpstatus">send us a pull request</a> to add full support for a new code.</p>
+<p>Enjoy!</p>
+        </div>
+        <footer>
+            Created by
+            <a href="https://www.aaron-powell.com">Aaron Powell</a>
+            and
+            <a href="https://tath.am">Tatham Oddie</a>
+            , hosted on an
+            <a href="https://azure.microsoft.com/en-us/services/app-service/">Azure App Service</a>,
+            open sourced on
+            <a href="https://github.com/aaronpowell/httpstatus" title="GitHub">GitHub</a>.
+            <br>
+
+            <strong>We don't capture or store any data about the requests you make.</strong>
+        </footer>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-9207152-3', 'auto');
+            ga('send', 'pageview');
+        </script>
+    </div>
+</body>
+</html>
+
+2023-03-12 19:50:22,779 [INFO] try to access url: https://httpstat.us/404?sleep=7000
+2023-03-12 19:50:22,779 [INFO] https://httpstat.us/404?sleep=7000 returned status code 404
+2023-03-12 19:50:22,779 [INFO] 404 Not Found
+2023-03-12 19:50:26,020 [INFO] try to access url: https://httpstat.us/301?sleep=10000
+2023-03-12 19:50:26,021 [INFO] https://httpstat.us/301?sleep=10000 returned status code 200
+2023-03-12 19:50:26,021 [INFO] <!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>httpstat.us</title>
+    <link href="/css/main.css" rel="stylesheet" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <div id="content">
+        <header>
+            <h1 id="title">httpstat.us</h1>
+        </header>
+        <div id="view">
+            
+<p>This is a super simple service for generating different HTTP codes.</p>
+<p>It's useful for testing how your own scripts deal with varying responses.</p>
+<p>
+    Just add the status code you want to the URL, like this:
+    <a href="/200">httpstat.us/200</a>
+</p>
+<p>We'll return a response like this:</p>
+<code>
+    HTTP/1.1 {status code} {status description}
+    Content-Type: text/plain or application/json
+    Content-Length: {something}
+    {any custom response headers}
+
+    {status code} {status description}
+    {list of any custom response headers we added}
+</code>
+
+<p>
+    To get a JSON response back, you need to ensure that the Accept header contains 'application/json'. Then we'll JSON encode the response and send the Content-Type header accordingly.
+</p>
+
+<p>
+    To get a random response back, use the <code class="inline">random/{range}</code> endpoint,
+    for example
+    <a href="/Random/200,201,500-504">httpstat.us/random/200,201,500-504</a>.
+    You can duplicate ranges in order to increase their probability.
+</p>
+
+<p>
+    If you want a delay on the response add a query string or provide a header of <code>X-HttpStatus-Sleep</code> for the sleep duration (the time in ms, max 5 minutes*), like this:
+    <a href="/200?sleep=5000">httpstat.us/200?sleep=5000</a>
+    <br />
+    <em>*When using the hosted instance the timeout is actually 230 seconds, which is the max timeout allowed by an Azure App Service (see <a href="https://social.msdn.microsoft.com/Forums/en-US/05f254a6-9b34-4eb2-a5f7-2a82fb40135f/time-out-after-230-seconds?forum=windowsazurewebsitespreview" target="_blank">this thread post</a>). If you host it yourself expect the limits to be different.</em>
+</p>
+
+<p>
+    If you want to return additional headers to the client, you can send them in the request with the <code>X-HttpStatus-Response-</code> prefix. A header of <code>X-HttpStatus-Response-Foo: Bar</code> will append the <code>Foo: Bar</code> header in the response.
+</p>
+
+<p>Here are all the codes we support (and any special notes):</p>
+<dl>
+        <dt><a href="/100">100</a></dt>
+        <dd>
+Continue        </dd>
+        <dt><a href="/101">101</a></dt>
+        <dd>
+Switching Protocols        </dd>
+        <dt><a href="/102">102</a></dt>
+        <dd>
+Processing        </dd>
+        <dt><a href="/103">103</a></dt>
+        <dd>
+Early Hints        </dd>
+        <dt><a href="/200">200</a></dt>
+        <dd>
+OK        </dd>
+        <dt><a href="/201">201</a></dt>
+        <dd>
+Created        </dd>
+        <dt><a href="/202">202</a></dt>
+        <dd>
+Accepted        </dd>
+        <dt><a href="/203">203</a></dt>
+        <dd>
+Non-Authoritative Information        </dd>
+        <dt><a href="/204">204</a></dt>
+        <dd>
+No Content        </dd>
+        <dt><a href="/205">205</a></dt>
+        <dd>
+Reset Content        </dd>
+        <dt><a href="/206">206</a></dt>
+        <dd>
+Partial Content        </dd>
+        <dt><a href="/207">207</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc4918" target="_blank" title="Multi-Status">Multi-Status</a>
+        </dd>
+        <dt><a href="/208">208</a></dt>
+        <dd>
+Already Reported        </dd>
+        <dt><a href="/226">226</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc3229#section-10.4.1" target="_blank" title="IM Used">IM Used</a>
+        </dd>
+        <dt><a href="/300">300</a></dt>
+        <dd>
+Multiple Choices        </dd>
+        <dt><a href="/301">301</a></dt>
+        <dd>
+Moved Permanently        </dd>
+        <dt><a href="/302">302</a></dt>
+        <dd>
+Found        </dd>
+        <dt><a href="/303">303</a></dt>
+        <dd>
+See Other        </dd>
+        <dt><a href="/304">304</a></dt>
+        <dd>
+Not Modified        </dd>
+        <dt><a href="/305">305</a></dt>
+        <dd>
+Use Proxy        </dd>
+        <dt><a href="/306">306</a></dt>
+        <dd>
+Switch Proxy        </dd>
+        <dt><a href="/307">307</a></dt>
+        <dd>
+Temporary Redirect        </dd>
+        <dt><a href="/308">308</a></dt>
+        <dd>
+Permanent Redirect        </dd>
+        <dt><a href="/400">400</a></dt>
+        <dd>
+Bad Request        </dd>
+        <dt><a href="/401">401</a></dt>
+        <dd>
+Unauthorized        </dd>
+        <dt><a href="/402">402</a></dt>
+        <dd>
+Payment Required        </dd>
+        <dt><a href="/403">403</a></dt>
+        <dd>
+Forbidden        </dd>
+        <dt><a href="/404">404</a></dt>
+        <dd>
+Not Found        </dd>
+        <dt><a href="/405">405</a></dt>
+        <dd>
+Method Not Allowed        </dd>
+        <dt><a href="/406">406</a></dt>
+        <dd>
+Not Acceptable        </dd>
+        <dt><a href="/407">407</a></dt>
+        <dd>
+Proxy Authentication Required        </dd>
+        <dt><a href="/408">408</a></dt>
+        <dd>
+Request Timeout        </dd>
+        <dt><a href="/409">409</a></dt>
+        <dd>
+Conflict        </dd>
+        <dt><a href="/410">410</a></dt>
+        <dd>
+Gone        </dd>
+        <dt><a href="/411">411</a></dt>
+        <dd>
+Length Required        </dd>
+        <dt><a href="/412">412</a></dt>
+        <dd>
+Precondition Failed        </dd>
+        <dt><a href="/413">413</a></dt>
+        <dd>
+Request Entity Too Large        </dd>
+        <dt><a href="/414">414</a></dt>
+        <dd>
+Request-URI Too Long        </dd>
+        <dt><a href="/415">415</a></dt>
+        <dd>
+Unsupported Media Type        </dd>
+        <dt><a href="/416">416</a></dt>
+        <dd>
+Requested Range Not Satisfiable        </dd>
+        <dt><a href="/417">417</a></dt>
+        <dd>
+Expectation Failed        </dd>
+        <dt><a href="/418">418</a></dt>
+        <dd>
+                <a href="https://www.ietf.org/rfc/rfc2324.txt" target="_blank" title="I&#x27;m a teapot">I&#x27;m a teapot</a>
+        </dd>
+        <dt><a href="/421">421</a></dt>
+        <dd>
+Misdirected Request        </dd>
+        <dt><a href="/422">422</a></dt>
+        <dd>
+Unprocessable Entity        </dd>
+        <dt><a href="/423">423</a></dt>
+        <dd>
+Locked        </dd>
+        <dt><a href="/424">424</a></dt>
+        <dd>
+Failed Dependency        </dd>
+        <dt><a href="/425">425</a></dt>
+        <dd>
+Too Early        </dd>
+        <dt><a href="/426">426</a></dt>
+        <dd>
+Upgrade Required        </dd>
+        <dt><a href="/428">428</a></dt>
+        <dd>
+Precondition Required        </dd>
+        <dt><a href="/429">429</a></dt>
+        <dd>
+Too Many Requests        </dd>
+        <dt><a href="/431">431</a></dt>
+        <dd>
+Request Header Fields Too Large        </dd>
+        <dt><a href="/451">451</a></dt>
+        <dd>
+Unavailable For Legal Reasons        </dd>
+        <dt><a href="/500">500</a></dt>
+        <dd>
+Internal Server Error        </dd>
+        <dt><a href="/501">501</a></dt>
+        <dd>
+Not Implemented        </dd>
+        <dt><a href="/502">502</a></dt>
+        <dd>
+Bad Gateway        </dd>
+        <dt><a href="/503">503</a></dt>
+        <dd>
+Service Unavailable        </dd>
+        <dt><a href="/504">504</a></dt>
+        <dd>
+Gateway Timeout        </dd>
+        <dt><a href="/505">505</a></dt>
+        <dd>
+HTTP Version Not Supported        </dd>
+        <dt><a href="/506">506</a></dt>
+        <dd>
+Variant Also Negotiates        </dd>
+        <dt><a href="/507">507</a></dt>
+        <dd>
+Insufficient Storage        </dd>
+        <dt><a href="/508">508</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc5842" target="_blank" title="Loop Detected">Loop Detected</a>
+        </dd>
+        <dt><a href="/510">510</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc2774" target="_blank" title="Not Extended">Not Extended</a>
+        </dd>
+        <dt><a href="/511">511</a></dt>
+        <dd>
+Network Authentication Required        </dd>
+        <dt><a href="/419">419</a></dt>
+        <dd>
+CSRF Token Missong or Expired (non-standard status code)        </dd>
+        <dt><a href="/420">420</a></dt>
+        <dd>
+Enhance Your Calm (non-standard status code)        </dd>
+        <dt><a href="/440">440</a></dt>
+        <dd>
+Login Time-out (non-standard status code)        </dd>
+        <dt><a href="/444">444</a></dt>
+        <dd>
+No Response (non-standard status code)        </dd>
+        <dt><a href="/449">449</a></dt>
+        <dd>
+Retry With (non-standard status code)        </dd>
+        <dt><a href="/450">450</a></dt>
+        <dd>
+Blocked by Windows Parental Controls (non-standard status code)        </dd>
+        <dt><a href="/460">460</a></dt>
+        <dd>
+Client closed the connection with AWS Elastic Load Balancer (non-standard status code)        </dd>
+        <dt><a href="/463">463</a></dt>
+        <dd>
+The load balancer received an X-Forwarded-For request header with more than 30 IP addresses (non-standard status code)        </dd>
+        <dt><a href="/494">494</a></dt>
+        <dd>
+Request header too large (non-standard status code)        </dd>
+        <dt><a href="/495">495</a></dt>
+        <dd>
+SSL Certificate Error (non-standard status code)        </dd>
+        <dt><a href="/496">496</a></dt>
+        <dd>
+SSL Certificate Required (non-standard status code)        </dd>
+        <dt><a href="/497">497</a></dt>
+        <dd>
+HTTP Request Sent to HTTPS Port (non-standard status code)        </dd>
+        <dt><a href="/498">498</a></dt>
+        <dd>
+Invalid Token (Esri) (non-standard status code)        </dd>
+        <dt><a href="/499">499</a></dt>
+        <dd>
+Client Closed Request (non-standard status code)        </dd>
+        <dt><a href="/520">520</a></dt>
+        <dd>
+Web Server Returned an Unknown Error (non-standard status code)        </dd>
+        <dt><a href="/521">521</a></dt>
+        <dd>
+Web Server Is Down (non-standard status code)        </dd>
+        <dt><a href="/522">522</a></dt>
+        <dd>
+Connection Timed out (non-standard status code)        </dd>
+        <dt><a href="/523">523</a></dt>
+        <dd>
+Origin Is Unreachable (non-standard status code)        </dd>
+        <dt><a href="/524">524</a></dt>
+        <dd>
+A Timeout Occurred (non-standard status code)        </dd>
+        <dt><a href="/525">525</a></dt>
+        <dd>
+SSL Handshake Failed (non-standard status code)        </dd>
+        <dt><a href="/526">526</a></dt>
+        <dd>
+Invalid SSL Certificate (non-standard status code)        </dd>
+        <dt><a href="/527">527</a></dt>
+        <dd>
+Railgun Error (non-standard status code)        </dd>
+        <dt><a href="/530">530</a></dt>
+        <dd>
+Origin DNS Error (non-standard status code)        </dd>
+        <dt><a href="/561">561</a></dt>
+        <dd>
+Unauthorized (AWS Elastic Load Balancer) (non-standard status code)        </dd>
+</dl>
+<p>If you need to enable <a href="https://developer.mozilla.org/docs/Web/HTTP/CORS" target="_blank" rel="noopener">CORS</a>, all endpoints have been configured to allow all origins, headers, and HTTP methods.</p>
+
+<p>If you send any other three digit number that's not in that list, we'll return it too. Or, <a href="https://github.com/aaronpowell/httpstatus">send us a pull request</a> to add full support for a new code.</p>
+<p>Enjoy!</p>
+        </div>
+        <footer>
+            Created by
+            <a href="https://www.aaron-powell.com">Aaron Powell</a>
+            and
+            <a href="https://tath.am">Tatham Oddie</a>
+            , hosted on an
+            <a href="https://azure.microsoft.com/en-us/services/app-service/">Azure App Service</a>,
+            open sourced on
+            <a href="https://github.com/aaronpowell/httpstatus" title="GitHub">GitHub</a>.
+            <br>
+
+            <strong>We don't capture or store any data about the requests you make.</strong>
+        </footer>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-9207152-3', 'auto');
+            ga('send', 'pageview');
+        </script>
+    </div>
+</body>
+</html>
+
+2023-03-12 19:50:26,842 [INFO] try to access url: https://httpstat.us/301?sleep=5000
+2023-03-12 19:50:26,842 [INFO] https://httpstat.us/301?sleep=5000 returned status code 200
+2023-03-12 19:50:26,842 [INFO] <!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>httpstat.us</title>
+    <link href="/css/main.css" rel="stylesheet" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <div id="content">
+        <header>
+            <h1 id="title">httpstat.us</h1>
+        </header>
+        <div id="view">
+            
+<p>This is a super simple service for generating different HTTP codes.</p>
+<p>It's useful for testing how your own scripts deal with varying responses.</p>
+<p>
+    Just add the status code you want to the URL, like this:
+    <a href="/200">httpstat.us/200</a>
+</p>
+<p>We'll return a response like this:</p>
+<code>
+    HTTP/1.1 {status code} {status description}
+    Content-Type: text/plain or application/json
+    Content-Length: {something}
+    {any custom response headers}
+
+    {status code} {status description}
+    {list of any custom response headers we added}
+</code>
+
+<p>
+    To get a JSON response back, you need to ensure that the Accept header contains 'application/json'. Then we'll JSON encode the response and send the Content-Type header accordingly.
+</p>
+
+<p>
+    To get a random response back, use the <code class="inline">random/{range}</code> endpoint,
+    for example
+    <a href="/Random/200,201,500-504">httpstat.us/random/200,201,500-504</a>.
+    You can duplicate ranges in order to increase their probability.
+</p>
+
+<p>
+    If you want a delay on the response add a query string or provide a header of <code>X-HttpStatus-Sleep</code> for the sleep duration (the time in ms, max 5 minutes*), like this:
+    <a href="/200?sleep=5000">httpstat.us/200?sleep=5000</a>
+    <br />
+    <em>*When using the hosted instance the timeout is actually 230 seconds, which is the max timeout allowed by an Azure App Service (see <a href="https://social.msdn.microsoft.com/Forums/en-US/05f254a6-9b34-4eb2-a5f7-2a82fb40135f/time-out-after-230-seconds?forum=windowsazurewebsitespreview" target="_blank">this thread post</a>). If you host it yourself expect the limits to be different.</em>
+</p>
+
+<p>
+    If you want to return additional headers to the client, you can send them in the request with the <code>X-HttpStatus-Response-</code> prefix. A header of <code>X-HttpStatus-Response-Foo: Bar</code> will append the <code>Foo: Bar</code> header in the response.
+</p>
+
+<p>Here are all the codes we support (and any special notes):</p>
+<dl>
+        <dt><a href="/100">100</a></dt>
+        <dd>
+Continue        </dd>
+        <dt><a href="/101">101</a></dt>
+        <dd>
+Switching Protocols        </dd>
+        <dt><a href="/102">102</a></dt>
+        <dd>
+Processing        </dd>
+        <dt><a href="/103">103</a></dt>
+        <dd>
+Early Hints        </dd>
+        <dt><a href="/200">200</a></dt>
+        <dd>
+OK        </dd>
+        <dt><a href="/201">201</a></dt>
+        <dd>
+Created        </dd>
+        <dt><a href="/202">202</a></dt>
+        <dd>
+Accepted        </dd>
+        <dt><a href="/203">203</a></dt>
+        <dd>
+Non-Authoritative Information        </dd>
+        <dt><a href="/204">204</a></dt>
+        <dd>
+No Content        </dd>
+        <dt><a href="/205">205</a></dt>
+        <dd>
+Reset Content        </dd>
+        <dt><a href="/206">206</a></dt>
+        <dd>
+Partial Content        </dd>
+        <dt><a href="/207">207</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc4918" target="_blank" title="Multi-Status">Multi-Status</a>
+        </dd>
+        <dt><a href="/208">208</a></dt>
+        <dd>
+Already Reported        </dd>
+        <dt><a href="/226">226</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc3229#section-10.4.1" target="_blank" title="IM Used">IM Used</a>
+        </dd>
+        <dt><a href="/300">300</a></dt>
+        <dd>
+Multiple Choices        </dd>
+        <dt><a href="/301">301</a></dt>
+        <dd>
+Moved Permanently        </dd>
+        <dt><a href="/302">302</a></dt>
+        <dd>
+Found        </dd>
+        <dt><a href="/303">303</a></dt>
+        <dd>
+See Other        </dd>
+        <dt><a href="/304">304</a></dt>
+        <dd>
+Not Modified        </dd>
+        <dt><a href="/305">305</a></dt>
+        <dd>
+Use Proxy        </dd>
+        <dt><a href="/306">306</a></dt>
+        <dd>
+Switch Proxy        </dd>
+        <dt><a href="/307">307</a></dt>
+        <dd>
+Temporary Redirect        </dd>
+        <dt><a href="/308">308</a></dt>
+        <dd>
+Permanent Redirect        </dd>
+        <dt><a href="/400">400</a></dt>
+        <dd>
+Bad Request        </dd>
+        <dt><a href="/401">401</a></dt>
+        <dd>
+Unauthorized        </dd>
+        <dt><a href="/402">402</a></dt>
+        <dd>
+Payment Required        </dd>
+        <dt><a href="/403">403</a></dt>
+        <dd>
+Forbidden        </dd>
+        <dt><a href="/404">404</a></dt>
+        <dd>
+Not Found        </dd>
+        <dt><a href="/405">405</a></dt>
+        <dd>
+Method Not Allowed        </dd>
+        <dt><a href="/406">406</a></dt>
+        <dd>
+Not Acceptable        </dd>
+        <dt><a href="/407">407</a></dt>
+        <dd>
+Proxy Authentication Required        </dd>
+        <dt><a href="/408">408</a></dt>
+        <dd>
+Request Timeout        </dd>
+        <dt><a href="/409">409</a></dt>
+        <dd>
+Conflict        </dd>
+        <dt><a href="/410">410</a></dt>
+        <dd>
+Gone        </dd>
+        <dt><a href="/411">411</a></dt>
+        <dd>
+Length Required        </dd>
+        <dt><a href="/412">412</a></dt>
+        <dd>
+Precondition Failed        </dd>
+        <dt><a href="/413">413</a></dt>
+        <dd>
+Request Entity Too Large        </dd>
+        <dt><a href="/414">414</a></dt>
+        <dd>
+Request-URI Too Long        </dd>
+        <dt><a href="/415">415</a></dt>
+        <dd>
+Unsupported Media Type        </dd>
+        <dt><a href="/416">416</a></dt>
+        <dd>
+Requested Range Not Satisfiable        </dd>
+        <dt><a href="/417">417</a></dt>
+        <dd>
+Expectation Failed        </dd>
+        <dt><a href="/418">418</a></dt>
+        <dd>
+                <a href="https://www.ietf.org/rfc/rfc2324.txt" target="_blank" title="I&#x27;m a teapot">I&#x27;m a teapot</a>
+        </dd>
+        <dt><a href="/421">421</a></dt>
+        <dd>
+Misdirected Request        </dd>
+        <dt><a href="/422">422</a></dt>
+        <dd>
+Unprocessable Entity        </dd>
+        <dt><a href="/423">423</a></dt>
+        <dd>
+Locked        </dd>
+        <dt><a href="/424">424</a></dt>
+        <dd>
+Failed Dependency        </dd>
+        <dt><a href="/425">425</a></dt>
+        <dd>
+Too Early        </dd>
+        <dt><a href="/426">426</a></dt>
+        <dd>
+Upgrade Required        </dd>
+        <dt><a href="/428">428</a></dt>
+        <dd>
+Precondition Required        </dd>
+        <dt><a href="/429">429</a></dt>
+        <dd>
+Too Many Requests        </dd>
+        <dt><a href="/431">431</a></dt>
+        <dd>
+Request Header Fields Too Large        </dd>
+        <dt><a href="/451">451</a></dt>
+        <dd>
+Unavailable For Legal Reasons        </dd>
+        <dt><a href="/500">500</a></dt>
+        <dd>
+Internal Server Error        </dd>
+        <dt><a href="/501">501</a></dt>
+        <dd>
+Not Implemented        </dd>
+        <dt><a href="/502">502</a></dt>
+        <dd>
+Bad Gateway        </dd>
+        <dt><a href="/503">503</a></dt>
+        <dd>
+Service Unavailable        </dd>
+        <dt><a href="/504">504</a></dt>
+        <dd>
+Gateway Timeout        </dd>
+        <dt><a href="/505">505</a></dt>
+        <dd>
+HTTP Version Not Supported        </dd>
+        <dt><a href="/506">506</a></dt>
+        <dd>
+Variant Also Negotiates        </dd>
+        <dt><a href="/507">507</a></dt>
+        <dd>
+Insufficient Storage        </dd>
+        <dt><a href="/508">508</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc5842" target="_blank" title="Loop Detected">Loop Detected</a>
+        </dd>
+        <dt><a href="/510">510</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc2774" target="_blank" title="Not Extended">Not Extended</a>
+        </dd>
+        <dt><a href="/511">511</a></dt>
+        <dd>
+Network Authentication Required        </dd>
+        <dt><a href="/419">419</a></dt>
+        <dd>
+CSRF Token Missong or Expired (non-standard status code)        </dd>
+        <dt><a href="/420">420</a></dt>
+        <dd>
+Enhance Your Calm (non-standard status code)        </dd>
+        <dt><a href="/440">440</a></dt>
+        <dd>
+Login Time-out (non-standard status code)        </dd>
+        <dt><a href="/444">444</a></dt>
+        <dd>
+No Response (non-standard status code)        </dd>
+        <dt><a href="/449">449</a></dt>
+        <dd>
+Retry With (non-standard status code)        </dd>
+        <dt><a href="/450">450</a></dt>
+        <dd>
+Blocked by Windows Parental Controls (non-standard status code)        </dd>
+        <dt><a href="/460">460</a></dt>
+        <dd>
+Client closed the connection with AWS Elastic Load Balancer (non-standard status code)        </dd>
+        <dt><a href="/463">463</a></dt>
+        <dd>
+The load balancer received an X-Forwarded-For request header with more than 30 IP addresses (non-standard status code)        </dd>
+        <dt><a href="/494">494</a></dt>
+        <dd>
+Request header too large (non-standard status code)        </dd>
+        <dt><a href="/495">495</a></dt>
+        <dd>
+SSL Certificate Error (non-standard status code)        </dd>
+        <dt><a href="/496">496</a></dt>
+        <dd>
+SSL Certificate Required (non-standard status code)        </dd>
+        <dt><a href="/497">497</a></dt>
+        <dd>
+HTTP Request Sent to HTTPS Port (non-standard status code)        </dd>
+        <dt><a href="/498">498</a></dt>
+        <dd>
+Invalid Token (Esri) (non-standard status code)        </dd>
+        <dt><a href="/499">499</a></dt>
+        <dd>
+Client Closed Request (non-standard status code)        </dd>
+        <dt><a href="/520">520</a></dt>
+        <dd>
+Web Server Returned an Unknown Error (non-standard status code)        </dd>
+        <dt><a href="/521">521</a></dt>
+        <dd>
+Web Server Is Down (non-standard status code)        </dd>
+        <dt><a href="/522">522</a></dt>
+        <dd>
+Connection Timed out (non-standard status code)        </dd>
+        <dt><a href="/523">523</a></dt>
+        <dd>
+Origin Is Unreachable (non-standard status code)        </dd>
+        <dt><a href="/524">524</a></dt>
+        <dd>
+A Timeout Occurred (non-standard status code)        </dd>
+        <dt><a href="/525">525</a></dt>
+        <dd>
+SSL Handshake Failed (non-standard status code)        </dd>
+        <dt><a href="/526">526</a></dt>
+        <dd>
+Invalid SSL Certificate (non-standard status code)        </dd>
+        <dt><a href="/527">527</a></dt>
+        <dd>
+Railgun Error (non-standard status code)        </dd>
+        <dt><a href="/530">530</a></dt>
+        <dd>
+Origin DNS Error (non-standard status code)        </dd>
+        <dt><a href="/561">561</a></dt>
+        <dd>
+Unauthorized (AWS Elastic Load Balancer) (non-standard status code)        </dd>
+</dl>
+<p>If you need to enable <a href="https://developer.mozilla.org/docs/Web/HTTP/CORS" target="_blank" rel="noopener">CORS</a>, all endpoints have been configured to allow all origins, headers, and HTTP methods.</p>
+
+<p>If you send any other three digit number that's not in that list, we'll return it too. Or, <a href="https://github.com/aaronpowell/httpstatus">send us a pull request</a> to add full support for a new code.</p>
+<p>Enjoy!</p>
+        </div>
+        <footer>
+            Created by
+            <a href="https://www.aaron-powell.com">Aaron Powell</a>
+            and
+            <a href="https://tath.am">Tatham Oddie</a>
+            , hosted on an
+            <a href="https://azure.microsoft.com/en-us/services/app-service/">Azure App Service</a>,
+            open sourced on
+            <a href="https://github.com/aaronpowell/httpstatus" title="GitHub">GitHub</a>.
+            <br>
+
+            <strong>We don't capture or store any data about the requests you make.</strong>
+        </footer>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-9207152-3', 'auto');
+            ga('send', 'pageview');
+        </script>
+    </div>
+</body>
+</html>
+
+2023-03-12 19:50:29,448 [INFO] try to access url: https://httpstat.us/500?sleep=8000
+2023-03-12 19:50:29,448 [INFO] https://httpstat.us/500?sleep=8000 returned status code 500
+2023-03-12 19:50:29,448 [INFO] 500 Internal Server Error
+2023-03-12 19:50:29,596 [INFO] try to access url: https://httpstat.us/301?sleep=6000
+2023-03-12 19:50:29,596 [INFO] https://httpstat.us/301?sleep=6000 returned status code 200
+2023-03-12 19:50:29,597 [INFO] <!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>httpstat.us</title>
+    <link href="/css/main.css" rel="stylesheet" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <div id="content">
+        <header>
+            <h1 id="title">httpstat.us</h1>
+        </header>
+        <div id="view">
+            
+<p>This is a super simple service for generating different HTTP codes.</p>
+<p>It's useful for testing how your own scripts deal with varying responses.</p>
+<p>
+    Just add the status code you want to the URL, like this:
+    <a href="/200">httpstat.us/200</a>
+</p>
+<p>We'll return a response like this:</p>
+<code>
+    HTTP/1.1 {status code} {status description}
+    Content-Type: text/plain or application/json
+    Content-Length: {something}
+    {any custom response headers}
+
+    {status code} {status description}
+    {list of any custom response headers we added}
+</code>
+
+<p>
+    To get a JSON response back, you need to ensure that the Accept header contains 'application/json'. Then we'll JSON encode the response and send the Content-Type header accordingly.
+</p>
+
+<p>
+    To get a random response back, use the <code class="inline">random/{range}</code> endpoint,
+    for example
+    <a href="/Random/200,201,500-504">httpstat.us/random/200,201,500-504</a>.
+    You can duplicate ranges in order to increase their probability.
+</p>
+
+<p>
+    If you want a delay on the response add a query string or provide a header of <code>X-HttpStatus-Sleep</code> for the sleep duration (the time in ms, max 5 minutes*), like this:
+    <a href="/200?sleep=5000">httpstat.us/200?sleep=5000</a>
+    <br />
+    <em>*When using the hosted instance the timeout is actually 230 seconds, which is the max timeout allowed by an Azure App Service (see <a href="https://social.msdn.microsoft.com/Forums/en-US/05f254a6-9b34-4eb2-a5f7-2a82fb40135f/time-out-after-230-seconds?forum=windowsazurewebsitespreview" target="_blank">this thread post</a>). If you host it yourself expect the limits to be different.</em>
+</p>
+
+<p>
+    If you want to return additional headers to the client, you can send them in the request with the <code>X-HttpStatus-Response-</code> prefix. A header of <code>X-HttpStatus-Response-Foo: Bar</code> will append the <code>Foo: Bar</code> header in the response.
+</p>
+
+<p>Here are all the codes we support (and any special notes):</p>
+<dl>
+        <dt><a href="/100">100</a></dt>
+        <dd>
+Continue        </dd>
+        <dt><a href="/101">101</a></dt>
+        <dd>
+Switching Protocols        </dd>
+        <dt><a href="/102">102</a></dt>
+        <dd>
+Processing        </dd>
+        <dt><a href="/103">103</a></dt>
+        <dd>
+Early Hints        </dd>
+        <dt><a href="/200">200</a></dt>
+        <dd>
+OK        </dd>
+        <dt><a href="/201">201</a></dt>
+        <dd>
+Created        </dd>
+        <dt><a href="/202">202</a></dt>
+        <dd>
+Accepted        </dd>
+        <dt><a href="/203">203</a></dt>
+        <dd>
+Non-Authoritative Information        </dd>
+        <dt><a href="/204">204</a></dt>
+        <dd>
+No Content        </dd>
+        <dt><a href="/205">205</a></dt>
+        <dd>
+Reset Content        </dd>
+        <dt><a href="/206">206</a></dt>
+        <dd>
+Partial Content        </dd>
+        <dt><a href="/207">207</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc4918" target="_blank" title="Multi-Status">Multi-Status</a>
+        </dd>
+        <dt><a href="/208">208</a></dt>
+        <dd>
+Already Reported        </dd>
+        <dt><a href="/226">226</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc3229#section-10.4.1" target="_blank" title="IM Used">IM Used</a>
+        </dd>
+        <dt><a href="/300">300</a></dt>
+        <dd>
+Multiple Choices        </dd>
+        <dt><a href="/301">301</a></dt>
+        <dd>
+Moved Permanently        </dd>
+        <dt><a href="/302">302</a></dt>
+        <dd>
+Found        </dd>
+        <dt><a href="/303">303</a></dt>
+        <dd>
+See Other        </dd>
+        <dt><a href="/304">304</a></dt>
+        <dd>
+Not Modified        </dd>
+        <dt><a href="/305">305</a></dt>
+        <dd>
+Use Proxy        </dd>
+        <dt><a href="/306">306</a></dt>
+        <dd>
+Switch Proxy        </dd>
+        <dt><a href="/307">307</a></dt>
+        <dd>
+Temporary Redirect        </dd>
+        <dt><a href="/308">308</a></dt>
+        <dd>
+Permanent Redirect        </dd>
+        <dt><a href="/400">400</a></dt>
+        <dd>
+Bad Request        </dd>
+        <dt><a href="/401">401</a></dt>
+        <dd>
+Unauthorized        </dd>
+        <dt><a href="/402">402</a></dt>
+        <dd>
+Payment Required        </dd>
+        <dt><a href="/403">403</a></dt>
+        <dd>
+Forbidden        </dd>
+        <dt><a href="/404">404</a></dt>
+        <dd>
+Not Found        </dd>
+        <dt><a href="/405">405</a></dt>
+        <dd>
+Method Not Allowed        </dd>
+        <dt><a href="/406">406</a></dt>
+        <dd>
+Not Acceptable        </dd>
+        <dt><a href="/407">407</a></dt>
+        <dd>
+Proxy Authentication Required        </dd>
+        <dt><a href="/408">408</a></dt>
+        <dd>
+Request Timeout        </dd>
+        <dt><a href="/409">409</a></dt>
+        <dd>
+Conflict        </dd>
+        <dt><a href="/410">410</a></dt>
+        <dd>
+Gone        </dd>
+        <dt><a href="/411">411</a></dt>
+        <dd>
+Length Required        </dd>
+        <dt><a href="/412">412</a></dt>
+        <dd>
+Precondition Failed        </dd>
+        <dt><a href="/413">413</a></dt>
+        <dd>
+Request Entity Too Large        </dd>
+        <dt><a href="/414">414</a></dt>
+        <dd>
+Request-URI Too Long        </dd>
+        <dt><a href="/415">415</a></dt>
+        <dd>
+Unsupported Media Type        </dd>
+        <dt><a href="/416">416</a></dt>
+        <dd>
+Requested Range Not Satisfiable        </dd>
+        <dt><a href="/417">417</a></dt>
+        <dd>
+Expectation Failed        </dd>
+        <dt><a href="/418">418</a></dt>
+        <dd>
+                <a href="https://www.ietf.org/rfc/rfc2324.txt" target="_blank" title="I&#x27;m a teapot">I&#x27;m a teapot</a>
+        </dd>
+        <dt><a href="/421">421</a></dt>
+        <dd>
+Misdirected Request        </dd>
+        <dt><a href="/422">422</a></dt>
+        <dd>
+Unprocessable Entity        </dd>
+        <dt><a href="/423">423</a></dt>
+        <dd>
+Locked        </dd>
+        <dt><a href="/424">424</a></dt>
+        <dd>
+Failed Dependency        </dd>
+        <dt><a href="/425">425</a></dt>
+        <dd>
+Too Early        </dd>
+        <dt><a href="/426">426</a></dt>
+        <dd>
+Upgrade Required        </dd>
+        <dt><a href="/428">428</a></dt>
+        <dd>
+Precondition Required        </dd>
+        <dt><a href="/429">429</a></dt>
+        <dd>
+Too Many Requests        </dd>
+        <dt><a href="/431">431</a></dt>
+        <dd>
+Request Header Fields Too Large        </dd>
+        <dt><a href="/451">451</a></dt>
+        <dd>
+Unavailable For Legal Reasons        </dd>
+        <dt><a href="/500">500</a></dt>
+        <dd>
+Internal Server Error        </dd>
+        <dt><a href="/501">501</a></dt>
+        <dd>
+Not Implemented        </dd>
+        <dt><a href="/502">502</a></dt>
+        <dd>
+Bad Gateway        </dd>
+        <dt><a href="/503">503</a></dt>
+        <dd>
+Service Unavailable        </dd>
+        <dt><a href="/504">504</a></dt>
+        <dd>
+Gateway Timeout        </dd>
+        <dt><a href="/505">505</a></dt>
+        <dd>
+HTTP Version Not Supported        </dd>
+        <dt><a href="/506">506</a></dt>
+        <dd>
+Variant Also Negotiates        </dd>
+        <dt><a href="/507">507</a></dt>
+        <dd>
+Insufficient Storage        </dd>
+        <dt><a href="/508">508</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc5842" target="_blank" title="Loop Detected">Loop Detected</a>
+        </dd>
+        <dt><a href="/510">510</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc2774" target="_blank" title="Not Extended">Not Extended</a>
+        </dd>
+        <dt><a href="/511">511</a></dt>
+        <dd>
+Network Authentication Required        </dd>
+        <dt><a href="/419">419</a></dt>
+        <dd>
+CSRF Token Missong or Expired (non-standard status code)        </dd>
+        <dt><a href="/420">420</a></dt>
+        <dd>
+Enhance Your Calm (non-standard status code)        </dd>
+        <dt><a href="/440">440</a></dt>
+        <dd>
+Login Time-out (non-standard status code)        </dd>
+        <dt><a href="/444">444</a></dt>
+        <dd>
+No Response (non-standard status code)        </dd>
+        <dt><a href="/449">449</a></dt>
+        <dd>
+Retry With (non-standard status code)        </dd>
+        <dt><a href="/450">450</a></dt>
+        <dd>
+Blocked by Windows Parental Controls (non-standard status code)        </dd>
+        <dt><a href="/460">460</a></dt>
+        <dd>
+Client closed the connection with AWS Elastic Load Balancer (non-standard status code)        </dd>
+        <dt><a href="/463">463</a></dt>
+        <dd>
+The load balancer received an X-Forwarded-For request header with more than 30 IP addresses (non-standard status code)        </dd>
+        <dt><a href="/494">494</a></dt>
+        <dd>
+Request header too large (non-standard status code)        </dd>
+        <dt><a href="/495">495</a></dt>
+        <dd>
+SSL Certificate Error (non-standard status code)        </dd>
+        <dt><a href="/496">496</a></dt>
+        <dd>
+SSL Certificate Required (non-standard status code)        </dd>
+        <dt><a href="/497">497</a></dt>
+        <dd>
+HTTP Request Sent to HTTPS Port (non-standard status code)        </dd>
+        <dt><a href="/498">498</a></dt>
+        <dd>
+Invalid Token (Esri) (non-standard status code)        </dd>
+        <dt><a href="/499">499</a></dt>
+        <dd>
+Client Closed Request (non-standard status code)        </dd>
+        <dt><a href="/520">520</a></dt>
+        <dd>
+Web Server Returned an Unknown Error (non-standard status code)        </dd>
+        <dt><a href="/521">521</a></dt>
+        <dd>
+Web Server Is Down (non-standard status code)        </dd>
+        <dt><a href="/522">522</a></dt>
+        <dd>
+Connection Timed out (non-standard status code)        </dd>
+        <dt><a href="/523">523</a></dt>
+        <dd>
+Origin Is Unreachable (non-standard status code)        </dd>
+        <dt><a href="/524">524</a></dt>
+        <dd>
+A Timeout Occurred (non-standard status code)        </dd>
+        <dt><a href="/525">525</a></dt>
+        <dd>
+SSL Handshake Failed (non-standard status code)        </dd>
+        <dt><a href="/526">526</a></dt>
+        <dd>
+Invalid SSL Certificate (non-standard status code)        </dd>
+        <dt><a href="/527">527</a></dt>
+        <dd>
+Railgun Error (non-standard status code)        </dd>
+        <dt><a href="/530">530</a></dt>
+        <dd>
+Origin DNS Error (non-standard status code)        </dd>
+        <dt><a href="/561">561</a></dt>
+        <dd>
+Unauthorized (AWS Elastic Load Balancer) (non-standard status code)        </dd>
+</dl>
+<p>If you need to enable <a href="https://developer.mozilla.org/docs/Web/HTTP/CORS" target="_blank" rel="noopener">CORS</a>, all endpoints have been configured to allow all origins, headers, and HTTP methods.</p>
+
+<p>If you send any other three digit number that's not in that list, we'll return it too. Or, <a href="https://github.com/aaronpowell/httpstatus">send us a pull request</a> to add full support for a new code.</p>
+<p>Enjoy!</p>
+        </div>
+        <footer>
+            Created by
+            <a href="https://www.aaron-powell.com">Aaron Powell</a>
+            and
+            <a href="https://tath.am">Tatham Oddie</a>
+            , hosted on an
+            <a href="https://azure.microsoft.com/en-us/services/app-service/">Azure App Service</a>,
+            open sourced on
+            <a href="https://github.com/aaronpowell/httpstatus" title="GitHub">GitHub</a>.
+            <br>
+
+            <strong>We don't capture or store any data about the requests you make.</strong>
+        </footer>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-9207152-3', 'auto');
+            ga('send', 'pageview');
+        </script>
+    </div>
+</body>
+</html>
+
+2023-03-12 19:50:30,396 [INFO] try to access url: https://httpstat.us/200?sleep=9000
+2023-03-12 19:50:30,396 [INFO] https://httpstat.us/200?sleep=9000 returned status code 200
+2023-03-12 19:50:30,396 [INFO] 200 OK
+2023-03-12 19:50:32,758 [INFO] try to access url: https://httpstat.us/200?sleep=6000
+2023-03-12 19:50:32,758 [INFO] https://httpstat.us/200?sleep=6000 returned status code 200
+2023-03-12 19:50:32,758 [INFO] 200 OK
+2023-03-12 19:50:50,497 [INFO] function_start
+2023-03-12 19:50:50,500 [INFO] generator is created
+2023-03-12 19:50:56,146 [INFO] try to access url: https://httpstat.us/200?sleep=5000
+2023-03-12 19:50:56,146 [INFO] https://httpstat.us/200?sleep=5000 returned status code 200
+2023-03-12 19:50:56,150 [INFO] 200 OK
+2023-03-12 19:50:56,151 [INFO] try to access url: https://httpstat.us/500?sleep=5000
+2023-03-12 19:50:56,152 [INFO] https://httpstat.us/500?sleep=5000 returned status code 500
+2023-03-12 19:50:56,153 [INFO] 500 Internal Server Error
+2023-03-12 19:50:56,297 [INFO] try to access url: https://httpstat.us/301?sleep=5000
+2023-03-12 19:50:56,297 [INFO] https://httpstat.us/301?sleep=5000 returned status code 200
+2023-03-12 19:50:56,297 [INFO] <!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>httpstat.us</title>
+    <link href="/css/main.css" rel="stylesheet" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <div id="content">
+        <header>
+            <h1 id="title">httpstat.us</h1>
+        </header>
+        <div id="view">
+            
+<p>This is a super simple service for generating different HTTP codes.</p>
+<p>It's useful for testing how your own scripts deal with varying responses.</p>
+<p>
+    Just add the status code you want to the URL, like this:
+    <a href="/200">httpstat.us/200</a>
+</p>
+<p>We'll return a response like this:</p>
+<code>
+    HTTP/1.1 {status code} {status description}
+    Content-Type: text/plain or application/json
+    Content-Length: {something}
+    {any custom response headers}
+
+    {status code} {status description}
+    {list of any custom response headers we added}
+</code>
+
+<p>
+    To get a JSON response back, you need to ensure that the Accept header contains 'application/json'. Then we'll JSON encode the response and send the Content-Type header accordingly.
+</p>
+
+<p>
+    To get a random response back, use the <code class="inline">random/{range}</code> endpoint,
+    for example
+    <a href="/Random/200,201,500-504">httpstat.us/random/200,201,500-504</a>.
+    You can duplicate ranges in order to increase their probability.
+</p>
+
+<p>
+    If you want a delay on the response add a query string or provide a header of <code>X-HttpStatus-Sleep</code> for the sleep duration (the time in ms, max 5 minutes*), like this:
+    <a href="/200?sleep=5000">httpstat.us/200?sleep=5000</a>
+    <br />
+    <em>*When using the hosted instance the timeout is actually 230 seconds, which is the max timeout allowed by an Azure App Service (see <a href="https://social.msdn.microsoft.com/Forums/en-US/05f254a6-9b34-4eb2-a5f7-2a82fb40135f/time-out-after-230-seconds?forum=windowsazurewebsitespreview" target="_blank">this thread post</a>). If you host it yourself expect the limits to be different.</em>
+</p>
+
+<p>
+    If you want to return additional headers to the client, you can send them in the request with the <code>X-HttpStatus-Response-</code> prefix. A header of <code>X-HttpStatus-Response-Foo: Bar</code> will append the <code>Foo: Bar</code> header in the response.
+</p>
+
+<p>Here are all the codes we support (and any special notes):</p>
+<dl>
+        <dt><a href="/100">100</a></dt>
+        <dd>
+Continue        </dd>
+        <dt><a href="/101">101</a></dt>
+        <dd>
+Switching Protocols        </dd>
+        <dt><a href="/102">102</a></dt>
+        <dd>
+Processing        </dd>
+        <dt><a href="/103">103</a></dt>
+        <dd>
+Early Hints        </dd>
+        <dt><a href="/200">200</a></dt>
+        <dd>
+OK        </dd>
+        <dt><a href="/201">201</a></dt>
+        <dd>
+Created        </dd>
+        <dt><a href="/202">202</a></dt>
+        <dd>
+Accepted        </dd>
+        <dt><a href="/203">203</a></dt>
+        <dd>
+Non-Authoritative Information        </dd>
+        <dt><a href="/204">204</a></dt>
+        <dd>
+No Content        </dd>
+        <dt><a href="/205">205</a></dt>
+        <dd>
+Reset Content        </dd>
+        <dt><a href="/206">206</a></dt>
+        <dd>
+Partial Content        </dd>
+        <dt><a href="/207">207</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc4918" target="_blank" title="Multi-Status">Multi-Status</a>
+        </dd>
+        <dt><a href="/208">208</a></dt>
+        <dd>
+Already Reported        </dd>
+        <dt><a href="/226">226</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc3229#section-10.4.1" target="_blank" title="IM Used">IM Used</a>
+        </dd>
+        <dt><a href="/300">300</a></dt>
+        <dd>
+Multiple Choices        </dd>
+        <dt><a href="/301">301</a></dt>
+        <dd>
+Moved Permanently        </dd>
+        <dt><a href="/302">302</a></dt>
+        <dd>
+Found        </dd>
+        <dt><a href="/303">303</a></dt>
+        <dd>
+See Other        </dd>
+        <dt><a href="/304">304</a></dt>
+        <dd>
+Not Modified        </dd>
+        <dt><a href="/305">305</a></dt>
+        <dd>
+Use Proxy        </dd>
+        <dt><a href="/306">306</a></dt>
+        <dd>
+Switch Proxy        </dd>
+        <dt><a href="/307">307</a></dt>
+        <dd>
+Temporary Redirect        </dd>
+        <dt><a href="/308">308</a></dt>
+        <dd>
+Permanent Redirect        </dd>
+        <dt><a href="/400">400</a></dt>
+        <dd>
+Bad Request        </dd>
+        <dt><a href="/401">401</a></dt>
+        <dd>
+Unauthorized        </dd>
+        <dt><a href="/402">402</a></dt>
+        <dd>
+Payment Required        </dd>
+        <dt><a href="/403">403</a></dt>
+        <dd>
+Forbidden        </dd>
+        <dt><a href="/404">404</a></dt>
+        <dd>
+Not Found        </dd>
+        <dt><a href="/405">405</a></dt>
+        <dd>
+Method Not Allowed        </dd>
+        <dt><a href="/406">406</a></dt>
+        <dd>
+Not Acceptable        </dd>
+        <dt><a href="/407">407</a></dt>
+        <dd>
+Proxy Authentication Required        </dd>
+        <dt><a href="/408">408</a></dt>
+        <dd>
+Request Timeout        </dd>
+        <dt><a href="/409">409</a></dt>
+        <dd>
+Conflict        </dd>
+        <dt><a href="/410">410</a></dt>
+        <dd>
+Gone        </dd>
+        <dt><a href="/411">411</a></dt>
+        <dd>
+Length Required        </dd>
+        <dt><a href="/412">412</a></dt>
+        <dd>
+Precondition Failed        </dd>
+        <dt><a href="/413">413</a></dt>
+        <dd>
+Request Entity Too Large        </dd>
+        <dt><a href="/414">414</a></dt>
+        <dd>
+Request-URI Too Long        </dd>
+        <dt><a href="/415">415</a></dt>
+        <dd>
+Unsupported Media Type        </dd>
+        <dt><a href="/416">416</a></dt>
+        <dd>
+Requested Range Not Satisfiable        </dd>
+        <dt><a href="/417">417</a></dt>
+        <dd>
+Expectation Failed        </dd>
+        <dt><a href="/418">418</a></dt>
+        <dd>
+                <a href="https://www.ietf.org/rfc/rfc2324.txt" target="_blank" title="I&#x27;m a teapot">I&#x27;m a teapot</a>
+        </dd>
+        <dt><a href="/421">421</a></dt>
+        <dd>
+Misdirected Request        </dd>
+        <dt><a href="/422">422</a></dt>
+        <dd>
+Unprocessable Entity        </dd>
+        <dt><a href="/423">423</a></dt>
+        <dd>
+Locked        </dd>
+        <dt><a href="/424">424</a></dt>
+        <dd>
+Failed Dependency        </dd>
+        <dt><a href="/425">425</a></dt>
+        <dd>
+Too Early        </dd>
+        <dt><a href="/426">426</a></dt>
+        <dd>
+Upgrade Required        </dd>
+        <dt><a href="/428">428</a></dt>
+        <dd>
+Precondition Required        </dd>
+        <dt><a href="/429">429</a></dt>
+        <dd>
+Too Many Requests        </dd>
+        <dt><a href="/431">431</a></dt>
+        <dd>
+Request Header Fields Too Large        </dd>
+        <dt><a href="/451">451</a></dt>
+        <dd>
+Unavailable For Legal Reasons        </dd>
+        <dt><a href="/500">500</a></dt>
+        <dd>
+Internal Server Error        </dd>
+        <dt><a href="/501">501</a></dt>
+        <dd>
+Not Implemented        </dd>
+        <dt><a href="/502">502</a></dt>
+        <dd>
+Bad Gateway        </dd>
+        <dt><a href="/503">503</a></dt>
+        <dd>
+Service Unavailable        </dd>
+        <dt><a href="/504">504</a></dt>
+        <dd>
+Gateway Timeout        </dd>
+        <dt><a href="/505">505</a></dt>
+        <dd>
+HTTP Version Not Supported        </dd>
+        <dt><a href="/506">506</a></dt>
+        <dd>
+Variant Also Negotiates        </dd>
+        <dt><a href="/507">507</a></dt>
+        <dd>
+Insufficient Storage        </dd>
+        <dt><a href="/508">508</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc5842" target="_blank" title="Loop Detected">Loop Detected</a>
+        </dd>
+        <dt><a href="/510">510</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc2774" target="_blank" title="Not Extended">Not Extended</a>
+        </dd>
+        <dt><a href="/511">511</a></dt>
+        <dd>
+Network Authentication Required        </dd>
+        <dt><a href="/419">419</a></dt>
+        <dd>
+CSRF Token Missong or Expired (non-standard status code)        </dd>
+        <dt><a href="/420">420</a></dt>
+        <dd>
+Enhance Your Calm (non-standard status code)        </dd>
+        <dt><a href="/440">440</a></dt>
+        <dd>
+Login Time-out (non-standard status code)        </dd>
+        <dt><a href="/444">444</a></dt>
+        <dd>
+No Response (non-standard status code)        </dd>
+        <dt><a href="/449">449</a></dt>
+        <dd>
+Retry With (non-standard status code)        </dd>
+        <dt><a href="/450">450</a></dt>
+        <dd>
+Blocked by Windows Parental Controls (non-standard status code)        </dd>
+        <dt><a href="/460">460</a></dt>
+        <dd>
+Client closed the connection with AWS Elastic Load Balancer (non-standard status code)        </dd>
+        <dt><a href="/463">463</a></dt>
+        <dd>
+The load balancer received an X-Forwarded-For request header with more than 30 IP addresses (non-standard status code)        </dd>
+        <dt><a href="/494">494</a></dt>
+        <dd>
+Request header too large (non-standard status code)        </dd>
+        <dt><a href="/495">495</a></dt>
+        <dd>
+SSL Certificate Error (non-standard status code)        </dd>
+        <dt><a href="/496">496</a></dt>
+        <dd>
+SSL Certificate Required (non-standard status code)        </dd>
+        <dt><a href="/497">497</a></dt>
+        <dd>
+HTTP Request Sent to HTTPS Port (non-standard status code)        </dd>
+        <dt><a href="/498">498</a></dt>
+        <dd>
+Invalid Token (Esri) (non-standard status code)        </dd>
+        <dt><a href="/499">499</a></dt>
+        <dd>
+Client Closed Request (non-standard status code)        </dd>
+        <dt><a href="/520">520</a></dt>
+        <dd>
+Web Server Returned an Unknown Error (non-standard status code)        </dd>
+        <dt><a href="/521">521</a></dt>
+        <dd>
+Web Server Is Down (non-standard status code)        </dd>
+        <dt><a href="/522">522</a></dt>
+        <dd>
+Connection Timed out (non-standard status code)        </dd>
+        <dt><a href="/523">523</a></dt>
+        <dd>
+Origin Is Unreachable (non-standard status code)        </dd>
+        <dt><a href="/524">524</a></dt>
+        <dd>
+A Timeout Occurred (non-standard status code)        </dd>
+        <dt><a href="/525">525</a></dt>
+        <dd>
+SSL Handshake Failed (non-standard status code)        </dd>
+        <dt><a href="/526">526</a></dt>
+        <dd>
+Invalid SSL Certificate (non-standard status code)        </dd>
+        <dt><a href="/527">527</a></dt>
+        <dd>
+Railgun Error (non-standard status code)        </dd>
+        <dt><a href="/530">530</a></dt>
+        <dd>
+Origin DNS Error (non-standard status code)        </dd>
+        <dt><a href="/561">561</a></dt>
+        <dd>
+Unauthorized (AWS Elastic Load Balancer) (non-standard status code)        </dd>
+</dl>
+<p>If you need to enable <a href="https://developer.mozilla.org/docs/Web/HTTP/CORS" target="_blank" rel="noopener">CORS</a>, all endpoints have been configured to allow all origins, headers, and HTTP methods.</p>
+
+<p>If you send any other three digit number that's not in that list, we'll return it too. Or, <a href="https://github.com/aaronpowell/httpstatus">send us a pull request</a> to add full support for a new code.</p>
+<p>Enjoy!</p>
+        </div>
+        <footer>
+            Created by
+            <a href="https://www.aaron-powell.com">Aaron Powell</a>
+            and
+            <a href="https://tath.am">Tatham Oddie</a>
+            , hosted on an
+            <a href="https://azure.microsoft.com/en-us/services/app-service/">Azure App Service</a>,
+            open sourced on
+            <a href="https://github.com/aaronpowell/httpstatus" title="GitHub">GitHub</a>.
+            <br>
+
+            <strong>We don't capture or store any data about the requests you make.</strong>
+        </footer>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-9207152-3', 'auto');
+            ga('send', 'pageview');
+        </script>
+    </div>
+</body>
+</html>
+
+2023-03-12 19:50:56,300 [INFO] try to access url: https://httpstat.us/301?sleep=5000
+2023-03-12 19:50:56,300 [INFO] https://httpstat.us/301?sleep=5000 returned status code 200
+2023-03-12 19:50:56,300 [INFO] <!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>httpstat.us</title>
+    <link href="/css/main.css" rel="stylesheet" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <div id="content">
+        <header>
+            <h1 id="title">httpstat.us</h1>
+        </header>
+        <div id="view">
+            
+<p>This is a super simple service for generating different HTTP codes.</p>
+<p>It's useful for testing how your own scripts deal with varying responses.</p>
+<p>
+    Just add the status code you want to the URL, like this:
+    <a href="/200">httpstat.us/200</a>
+</p>
+<p>We'll return a response like this:</p>
+<code>
+    HTTP/1.1 {status code} {status description}
+    Content-Type: text/plain or application/json
+    Content-Length: {something}
+    {any custom response headers}
+
+    {status code} {status description}
+    {list of any custom response headers we added}
+</code>
+
+<p>
+    To get a JSON response back, you need to ensure that the Accept header contains 'application/json'. Then we'll JSON encode the response and send the Content-Type header accordingly.
+</p>
+
+<p>
+    To get a random response back, use the <code class="inline">random/{range}</code> endpoint,
+    for example
+    <a href="/Random/200,201,500-504">httpstat.us/random/200,201,500-504</a>.
+    You can duplicate ranges in order to increase their probability.
+</p>
+
+<p>
+    If you want a delay on the response add a query string or provide a header of <code>X-HttpStatus-Sleep</code> for the sleep duration (the time in ms, max 5 minutes*), like this:
+    <a href="/200?sleep=5000">httpstat.us/200?sleep=5000</a>
+    <br />
+    <em>*When using the hosted instance the timeout is actually 230 seconds, which is the max timeout allowed by an Azure App Service (see <a href="https://social.msdn.microsoft.com/Forums/en-US/05f254a6-9b34-4eb2-a5f7-2a82fb40135f/time-out-after-230-seconds?forum=windowsazurewebsitespreview" target="_blank">this thread post</a>). If you host it yourself expect the limits to be different.</em>
+</p>
+
+<p>
+    If you want to return additional headers to the client, you can send them in the request with the <code>X-HttpStatus-Response-</code> prefix. A header of <code>X-HttpStatus-Response-Foo: Bar</code> will append the <code>Foo: Bar</code> header in the response.
+</p>
+
+<p>Here are all the codes we support (and any special notes):</p>
+<dl>
+        <dt><a href="/100">100</a></dt>
+        <dd>
+Continue        </dd>
+        <dt><a href="/101">101</a></dt>
+        <dd>
+Switching Protocols        </dd>
+        <dt><a href="/102">102</a></dt>
+        <dd>
+Processing        </dd>
+        <dt><a href="/103">103</a></dt>
+        <dd>
+Early Hints        </dd>
+        <dt><a href="/200">200</a></dt>
+        <dd>
+OK        </dd>
+        <dt><a href="/201">201</a></dt>
+        <dd>
+Created        </dd>
+        <dt><a href="/202">202</a></dt>
+        <dd>
+Accepted        </dd>
+        <dt><a href="/203">203</a></dt>
+        <dd>
+Non-Authoritative Information        </dd>
+        <dt><a href="/204">204</a></dt>
+        <dd>
+No Content        </dd>
+        <dt><a href="/205">205</a></dt>
+        <dd>
+Reset Content        </dd>
+        <dt><a href="/206">206</a></dt>
+        <dd>
+Partial Content        </dd>
+        <dt><a href="/207">207</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc4918" target="_blank" title="Multi-Status">Multi-Status</a>
+        </dd>
+        <dt><a href="/208">208</a></dt>
+        <dd>
+Already Reported        </dd>
+        <dt><a href="/226">226</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc3229#section-10.4.1" target="_blank" title="IM Used">IM Used</a>
+        </dd>
+        <dt><a href="/300">300</a></dt>
+        <dd>
+Multiple Choices        </dd>
+        <dt><a href="/301">301</a></dt>
+        <dd>
+Moved Permanently        </dd>
+        <dt><a href="/302">302</a></dt>
+        <dd>
+Found        </dd>
+        <dt><a href="/303">303</a></dt>
+        <dd>
+See Other        </dd>
+        <dt><a href="/304">304</a></dt>
+        <dd>
+Not Modified        </dd>
+        <dt><a href="/305">305</a></dt>
+        <dd>
+Use Proxy        </dd>
+        <dt><a href="/306">306</a></dt>
+        <dd>
+Switch Proxy        </dd>
+        <dt><a href="/307">307</a></dt>
+        <dd>
+Temporary Redirect        </dd>
+        <dt><a href="/308">308</a></dt>
+        <dd>
+Permanent Redirect        </dd>
+        <dt><a href="/400">400</a></dt>
+        <dd>
+Bad Request        </dd>
+        <dt><a href="/401">401</a></dt>
+        <dd>
+Unauthorized        </dd>
+        <dt><a href="/402">402</a></dt>
+        <dd>
+Payment Required        </dd>
+        <dt><a href="/403">403</a></dt>
+        <dd>
+Forbidden        </dd>
+        <dt><a href="/404">404</a></dt>
+        <dd>
+Not Found        </dd>
+        <dt><a href="/405">405</a></dt>
+        <dd>
+Method Not Allowed        </dd>
+        <dt><a href="/406">406</a></dt>
+        <dd>
+Not Acceptable        </dd>
+        <dt><a href="/407">407</a></dt>
+        <dd>
+Proxy Authentication Required        </dd>
+        <dt><a href="/408">408</a></dt>
+        <dd>
+Request Timeout        </dd>
+        <dt><a href="/409">409</a></dt>
+        <dd>
+Conflict        </dd>
+        <dt><a href="/410">410</a></dt>
+        <dd>
+Gone        </dd>
+        <dt><a href="/411">411</a></dt>
+        <dd>
+Length Required        </dd>
+        <dt><a href="/412">412</a></dt>
+        <dd>
+Precondition Failed        </dd>
+        <dt><a href="/413">413</a></dt>
+        <dd>
+Request Entity Too Large        </dd>
+        <dt><a href="/414">414</a></dt>
+        <dd>
+Request-URI Too Long        </dd>
+        <dt><a href="/415">415</a></dt>
+        <dd>
+Unsupported Media Type        </dd>
+        <dt><a href="/416">416</a></dt>
+        <dd>
+Requested Range Not Satisfiable        </dd>
+        <dt><a href="/417">417</a></dt>
+        <dd>
+Expectation Failed        </dd>
+        <dt><a href="/418">418</a></dt>
+        <dd>
+                <a href="https://www.ietf.org/rfc/rfc2324.txt" target="_blank" title="I&#x27;m a teapot">I&#x27;m a teapot</a>
+        </dd>
+        <dt><a href="/421">421</a></dt>
+        <dd>
+Misdirected Request        </dd>
+        <dt><a href="/422">422</a></dt>
+        <dd>
+Unprocessable Entity        </dd>
+        <dt><a href="/423">423</a></dt>
+        <dd>
+Locked        </dd>
+        <dt><a href="/424">424</a></dt>
+        <dd>
+Failed Dependency        </dd>
+        <dt><a href="/425">425</a></dt>
+        <dd>
+Too Early        </dd>
+        <dt><a href="/426">426</a></dt>
+        <dd>
+Upgrade Required        </dd>
+        <dt><a href="/428">428</a></dt>
+        <dd>
+Precondition Required        </dd>
+        <dt><a href="/429">429</a></dt>
+        <dd>
+Too Many Requests        </dd>
+        <dt><a href="/431">431</a></dt>
+        <dd>
+Request Header Fields Too Large        </dd>
+        <dt><a href="/451">451</a></dt>
+        <dd>
+Unavailable For Legal Reasons        </dd>
+        <dt><a href="/500">500</a></dt>
+        <dd>
+Internal Server Error        </dd>
+        <dt><a href="/501">501</a></dt>
+        <dd>
+Not Implemented        </dd>
+        <dt><a href="/502">502</a></dt>
+        <dd>
+Bad Gateway        </dd>
+        <dt><a href="/503">503</a></dt>
+        <dd>
+Service Unavailable        </dd>
+        <dt><a href="/504">504</a></dt>
+        <dd>
+Gateway Timeout        </dd>
+        <dt><a href="/505">505</a></dt>
+        <dd>
+HTTP Version Not Supported        </dd>
+        <dt><a href="/506">506</a></dt>
+        <dd>
+Variant Also Negotiates        </dd>
+        <dt><a href="/507">507</a></dt>
+        <dd>
+Insufficient Storage        </dd>
+        <dt><a href="/508">508</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc5842" target="_blank" title="Loop Detected">Loop Detected</a>
+        </dd>
+        <dt><a href="/510">510</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc2774" target="_blank" title="Not Extended">Not Extended</a>
+        </dd>
+        <dt><a href="/511">511</a></dt>
+        <dd>
+Network Authentication Required        </dd>
+        <dt><a href="/419">419</a></dt>
+        <dd>
+CSRF Token Missong or Expired (non-standard status code)        </dd>
+        <dt><a href="/420">420</a></dt>
+        <dd>
+Enhance Your Calm (non-standard status code)        </dd>
+        <dt><a href="/440">440</a></dt>
+        <dd>
+Login Time-out (non-standard status code)        </dd>
+        <dt><a href="/444">444</a></dt>
+        <dd>
+No Response (non-standard status code)        </dd>
+        <dt><a href="/449">449</a></dt>
+        <dd>
+Retry With (non-standard status code)        </dd>
+        <dt><a href="/450">450</a></dt>
+        <dd>
+Blocked by Windows Parental Controls (non-standard status code)        </dd>
+        <dt><a href="/460">460</a></dt>
+        <dd>
+Client closed the connection with AWS Elastic Load Balancer (non-standard status code)        </dd>
+        <dt><a href="/463">463</a></dt>
+        <dd>
+The load balancer received an X-Forwarded-For request header with more than 30 IP addresses (non-standard status code)        </dd>
+        <dt><a href="/494">494</a></dt>
+        <dd>
+Request header too large (non-standard status code)        </dd>
+        <dt><a href="/495">495</a></dt>
+        <dd>
+SSL Certificate Error (non-standard status code)        </dd>
+        <dt><a href="/496">496</a></dt>
+        <dd>
+SSL Certificate Required (non-standard status code)        </dd>
+        <dt><a href="/497">497</a></dt>
+        <dd>
+HTTP Request Sent to HTTPS Port (non-standard status code)        </dd>
+        <dt><a href="/498">498</a></dt>
+        <dd>
+Invalid Token (Esri) (non-standard status code)        </dd>
+        <dt><a href="/499">499</a></dt>
+        <dd>
+Client Closed Request (non-standard status code)        </dd>
+        <dt><a href="/520">520</a></dt>
+        <dd>
+Web Server Returned an Unknown Error (non-standard status code)        </dd>
+        <dt><a href="/521">521</a></dt>
+        <dd>
+Web Server Is Down (non-standard status code)        </dd>
+        <dt><a href="/522">522</a></dt>
+        <dd>
+Connection Timed out (non-standard status code)        </dd>
+        <dt><a href="/523">523</a></dt>
+        <dd>
+Origin Is Unreachable (non-standard status code)        </dd>
+        <dt><a href="/524">524</a></dt>
+        <dd>
+A Timeout Occurred (non-standard status code)        </dd>
+        <dt><a href="/525">525</a></dt>
+        <dd>
+SSL Handshake Failed (non-standard status code)        </dd>
+        <dt><a href="/526">526</a></dt>
+        <dd>
+Invalid SSL Certificate (non-standard status code)        </dd>
+        <dt><a href="/527">527</a></dt>
+        <dd>
+Railgun Error (non-standard status code)        </dd>
+        <dt><a href="/530">530</a></dt>
+        <dd>
+Origin DNS Error (non-standard status code)        </dd>
+        <dt><a href="/561">561</a></dt>
+        <dd>
+Unauthorized (AWS Elastic Load Balancer) (non-standard status code)        </dd>
+</dl>
+<p>If you need to enable <a href="https://developer.mozilla.org/docs/Web/HTTP/CORS" target="_blank" rel="noopener">CORS</a>, all endpoints have been configured to allow all origins, headers, and HTTP methods.</p>
+
+<p>If you send any other three digit number that's not in that list, we'll return it too. Or, <a href="https://github.com/aaronpowell/httpstatus">send us a pull request</a> to add full support for a new code.</p>
+<p>Enjoy!</p>
+        </div>
+        <footer>
+            Created by
+            <a href="https://www.aaron-powell.com">Aaron Powell</a>
+            and
+            <a href="https://tath.am">Tatham Oddie</a>
+            , hosted on an
+            <a href="https://azure.microsoft.com/en-us/services/app-service/">Azure App Service</a>,
+            open sourced on
+            <a href="https://github.com/aaronpowell/httpstatus" title="GitHub">GitHub</a>.
+            <br>
+
+            <strong>We don't capture or store any data about the requests you make.</strong>
+        </footer>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-9207152-3', 'auto');
+            ga('send', 'pageview');
+        </script>
+    </div>
+</body>
+</html>
+
+2023-03-12 19:50:56,307 [INFO] try to access url: https://httpstat.us/301?sleep=5000
+2023-03-12 19:50:56,307 [INFO] https://httpstat.us/301?sleep=5000 returned status code 200
+2023-03-12 19:50:56,307 [INFO] <!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>httpstat.us</title>
+    <link href="/css/main.css" rel="stylesheet" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <div id="content">
+        <header>
+            <h1 id="title">httpstat.us</h1>
+        </header>
+        <div id="view">
+            
+<p>This is a super simple service for generating different HTTP codes.</p>
+<p>It's useful for testing how your own scripts deal with varying responses.</p>
+<p>
+    Just add the status code you want to the URL, like this:
+    <a href="/200">httpstat.us/200</a>
+</p>
+<p>We'll return a response like this:</p>
+<code>
+    HTTP/1.1 {status code} {status description}
+    Content-Type: text/plain or application/json
+    Content-Length: {something}
+    {any custom response headers}
+
+    {status code} {status description}
+    {list of any custom response headers we added}
+</code>
+
+<p>
+    To get a JSON response back, you need to ensure that the Accept header contains 'application/json'. Then we'll JSON encode the response and send the Content-Type header accordingly.
+</p>
+
+<p>
+    To get a random response back, use the <code class="inline">random/{range}</code> endpoint,
+    for example
+    <a href="/Random/200,201,500-504">httpstat.us/random/200,201,500-504</a>.
+    You can duplicate ranges in order to increase their probability.
+</p>
+
+<p>
+    If you want a delay on the response add a query string or provide a header of <code>X-HttpStatus-Sleep</code> for the sleep duration (the time in ms, max 5 minutes*), like this:
+    <a href="/200?sleep=5000">httpstat.us/200?sleep=5000</a>
+    <br />
+    <em>*When using the hosted instance the timeout is actually 230 seconds, which is the max timeout allowed by an Azure App Service (see <a href="https://social.msdn.microsoft.com/Forums/en-US/05f254a6-9b34-4eb2-a5f7-2a82fb40135f/time-out-after-230-seconds?forum=windowsazurewebsitespreview" target="_blank">this thread post</a>). If you host it yourself expect the limits to be different.</em>
+</p>
+
+<p>
+    If you want to return additional headers to the client, you can send them in the request with the <code>X-HttpStatus-Response-</code> prefix. A header of <code>X-HttpStatus-Response-Foo: Bar</code> will append the <code>Foo: Bar</code> header in the response.
+</p>
+
+<p>Here are all the codes we support (and any special notes):</p>
+<dl>
+        <dt><a href="/100">100</a></dt>
+        <dd>
+Continue        </dd>
+        <dt><a href="/101">101</a></dt>
+        <dd>
+Switching Protocols        </dd>
+        <dt><a href="/102">102</a></dt>
+        <dd>
+Processing        </dd>
+        <dt><a href="/103">103</a></dt>
+        <dd>
+Early Hints        </dd>
+        <dt><a href="/200">200</a></dt>
+        <dd>
+OK        </dd>
+        <dt><a href="/201">201</a></dt>
+        <dd>
+Created        </dd>
+        <dt><a href="/202">202</a></dt>
+        <dd>
+Accepted        </dd>
+        <dt><a href="/203">203</a></dt>
+        <dd>
+Non-Authoritative Information        </dd>
+        <dt><a href="/204">204</a></dt>
+        <dd>
+No Content        </dd>
+        <dt><a href="/205">205</a></dt>
+        <dd>
+Reset Content        </dd>
+        <dt><a href="/206">206</a></dt>
+        <dd>
+Partial Content        </dd>
+        <dt><a href="/207">207</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc4918" target="_blank" title="Multi-Status">Multi-Status</a>
+        </dd>
+        <dt><a href="/208">208</a></dt>
+        <dd>
+Already Reported        </dd>
+        <dt><a href="/226">226</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc3229#section-10.4.1" target="_blank" title="IM Used">IM Used</a>
+        </dd>
+        <dt><a href="/300">300</a></dt>
+        <dd>
+Multiple Choices        </dd>
+        <dt><a href="/301">301</a></dt>
+        <dd>
+Moved Permanently        </dd>
+        <dt><a href="/302">302</a></dt>
+        <dd>
+Found        </dd>
+        <dt><a href="/303">303</a></dt>
+        <dd>
+See Other        </dd>
+        <dt><a href="/304">304</a></dt>
+        <dd>
+Not Modified        </dd>
+        <dt><a href="/305">305</a></dt>
+        <dd>
+Use Proxy        </dd>
+        <dt><a href="/306">306</a></dt>
+        <dd>
+Switch Proxy        </dd>
+        <dt><a href="/307">307</a></dt>
+        <dd>
+Temporary Redirect        </dd>
+        <dt><a href="/308">308</a></dt>
+        <dd>
+Permanent Redirect        </dd>
+        <dt><a href="/400">400</a></dt>
+        <dd>
+Bad Request        </dd>
+        <dt><a href="/401">401</a></dt>
+        <dd>
+Unauthorized        </dd>
+        <dt><a href="/402">402</a></dt>
+        <dd>
+Payment Required        </dd>
+        <dt><a href="/403">403</a></dt>
+        <dd>
+Forbidden        </dd>
+        <dt><a href="/404">404</a></dt>
+        <dd>
+Not Found        </dd>
+        <dt><a href="/405">405</a></dt>
+        <dd>
+Method Not Allowed        </dd>
+        <dt><a href="/406">406</a></dt>
+        <dd>
+Not Acceptable        </dd>
+        <dt><a href="/407">407</a></dt>
+        <dd>
+Proxy Authentication Required        </dd>
+        <dt><a href="/408">408</a></dt>
+        <dd>
+Request Timeout        </dd>
+        <dt><a href="/409">409</a></dt>
+        <dd>
+Conflict        </dd>
+        <dt><a href="/410">410</a></dt>
+        <dd>
+Gone        </dd>
+        <dt><a href="/411">411</a></dt>
+        <dd>
+Length Required        </dd>
+        <dt><a href="/412">412</a></dt>
+        <dd>
+Precondition Failed        </dd>
+        <dt><a href="/413">413</a></dt>
+        <dd>
+Request Entity Too Large        </dd>
+        <dt><a href="/414">414</a></dt>
+        <dd>
+Request-URI Too Long        </dd>
+        <dt><a href="/415">415</a></dt>
+        <dd>
+Unsupported Media Type        </dd>
+        <dt><a href="/416">416</a></dt>
+        <dd>
+Requested Range Not Satisfiable        </dd>
+        <dt><a href="/417">417</a></dt>
+        <dd>
+Expectation Failed        </dd>
+        <dt><a href="/418">418</a></dt>
+        <dd>
+                <a href="https://www.ietf.org/rfc/rfc2324.txt" target="_blank" title="I&#x27;m a teapot">I&#x27;m a teapot</a>
+        </dd>
+        <dt><a href="/421">421</a></dt>
+        <dd>
+Misdirected Request        </dd>
+        <dt><a href="/422">422</a></dt>
+        <dd>
+Unprocessable Entity        </dd>
+        <dt><a href="/423">423</a></dt>
+        <dd>
+Locked        </dd>
+        <dt><a href="/424">424</a></dt>
+        <dd>
+Failed Dependency        </dd>
+        <dt><a href="/425">425</a></dt>
+        <dd>
+Too Early        </dd>
+        <dt><a href="/426">426</a></dt>
+        <dd>
+Upgrade Required        </dd>
+        <dt><a href="/428">428</a></dt>
+        <dd>
+Precondition Required        </dd>
+        <dt><a href="/429">429</a></dt>
+        <dd>
+Too Many Requests        </dd>
+        <dt><a href="/431">431</a></dt>
+        <dd>
+Request Header Fields Too Large        </dd>
+        <dt><a href="/451">451</a></dt>
+        <dd>
+Unavailable For Legal Reasons        </dd>
+        <dt><a href="/500">500</a></dt>
+        <dd>
+Internal Server Error        </dd>
+        <dt><a href="/501">501</a></dt>
+        <dd>
+Not Implemented        </dd>
+        <dt><a href="/502">502</a></dt>
+        <dd>
+Bad Gateway        </dd>
+        <dt><a href="/503">503</a></dt>
+        <dd>
+Service Unavailable        </dd>
+        <dt><a href="/504">504</a></dt>
+        <dd>
+Gateway Timeout        </dd>
+        <dt><a href="/505">505</a></dt>
+        <dd>
+HTTP Version Not Supported        </dd>
+        <dt><a href="/506">506</a></dt>
+        <dd>
+Variant Also Negotiates        </dd>
+        <dt><a href="/507">507</a></dt>
+        <dd>
+Insufficient Storage        </dd>
+        <dt><a href="/508">508</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc5842" target="_blank" title="Loop Detected">Loop Detected</a>
+        </dd>
+        <dt><a href="/510">510</a></dt>
+        <dd>
+                <a href="https://tools.ietf.org/html/rfc2774" target="_blank" title="Not Extended">Not Extended</a>
+        </dd>
+        <dt><a href="/511">511</a></dt>
+        <dd>
+Network Authentication Required        </dd>
+        <dt><a href="/419">419</a></dt>
+        <dd>
+CSRF Token Missong or Expired (non-standard status code)        </dd>
+        <dt><a href="/420">420</a></dt>
+        <dd>
+Enhance Your Calm (non-standard status code)        </dd>
+        <dt><a href="/440">440</a></dt>
+        <dd>
+Login Time-out (non-standard status code)        </dd>
+        <dt><a href="/444">444</a></dt>
+        <dd>
+No Response (non-standard status code)        </dd>
+        <dt><a href="/449">449</a></dt>
+        <dd>
+Retry With (non-standard status code)        </dd>
+        <dt><a href="/450">450</a></dt>
+        <dd>
+Blocked by Windows Parental Controls (non-standard status code)        </dd>
+        <dt><a href="/460">460</a></dt>
+        <dd>
+Client closed the connection with AWS Elastic Load Balancer (non-standard status code)        </dd>
+        <dt><a href="/463">463</a></dt>
+        <dd>
+The load balancer received an X-Forwarded-For request header with more than 30 IP addresses (non-standard status code)        </dd>
+        <dt><a href="/494">494</a></dt>
+        <dd>
+Request header too large (non-standard status code)        </dd>
+        <dt><a href="/495">495</a></dt>
+        <dd>
+SSL Certificate Error (non-standard status code)        </dd>
+        <dt><a href="/496">496</a></dt>
+        <dd>
+SSL Certificate Required (non-standard status code)        </dd>
+        <dt><a href="/497">497</a></dt>
+        <dd>
+HTTP Request Sent to HTTPS Port (non-standard status code)        </dd>
+        <dt><a href="/498">498</a></dt>
+        <dd>
+Invalid Token (Esri) (non-standard status code)        </dd>
+        <dt><a href="/499">499</a></dt>
+        <dd>
+Client Closed Request (non-standard status code)        </dd>
+        <dt><a href="/520">520</a></dt>
+        <dd>
+Web Server Returned an Unknown Error (non-standard status code)        </dd>
+        <dt><a href="/521">521</a></dt>
+        <dd>
+Web Server Is Down (non-standard status code)        </dd>
+        <dt><a href="/522">522</a></dt>
+        <dd>
+Connection Timed out (non-standard status code)        </dd>
+        <dt><a href="/523">523</a></dt>
+        <dd>
+Origin Is Unreachable (non-standard status code)        </dd>
+        <dt><a href="/524">524</a></dt>
+        <dd>
+A Timeout Occurred (non-standard status code)        </dd>
+        <dt><a href="/525">525</a></dt>
+        <dd>
+SSL Handshake Failed (non-standard status code)        </dd>
+        <dt><a href="/526">526</a></dt>
+        <dd>
+Invalid SSL Certificate (non-standard status code)        </dd>
+        <dt><a href="/527">527</a></dt>
+        <dd>
+Railgun Error (non-standard status code)        </dd>
+        <dt><a href="/530">530</a></dt>
+        <dd>
+Origin DNS Error (non-standard status code)        </dd>
+        <dt><a href="/561">561</a></dt>
+        <dd>
+Unauthorized (AWS Elastic Load Balancer) (non-standard status code)        </dd>
+</dl>
+<p>If you need to enable <a href="https://developer.mozilla.org/docs/Web/HTTP/CORS" target="_blank" rel="noopener">CORS</a>, all endpoints have been configured to allow all origins, headers, and HTTP methods.</p>
+
+<p>If you send any other three digit number that's not in that list, we'll return it too. Or, <a href="https://github.com/aaronpowell/httpstatus">send us a pull request</a> to add full support for a new code.</p>
+<p>Enjoy!</p>
+        </div>
+        <footer>
+            Created by
+            <a href="https://www.aaron-powell.com">Aaron Powell</a>
+            and
+            <a href="https://tath.am">Tatham Oddie</a>
+            , hosted on an
+            <a href="https://azure.microsoft.com/en-us/services/app-service/">Azure App Service</a>,
+            open sourced on
+            <a href="https://github.com/aaronpowell/httpstatus" title="GitHub">GitHub</a>.
+            <br>
+
+            <strong>We don't capture or store any data about the requests you make.</strong>
+        </footer>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-9207152-3', 'auto');
+            ga('send', 'pageview');
+        </script>
+    </div>
+</body>
+</html>
+
+2023-03-12 19:51:01,761 [INFO] try to access url: https://httpstat.us/400?sleep=5000
+2023-03-12 19:51:01,761 [INFO] https://httpstat.us/400?sleep=5000 returned status code 400
+2023-03-12 19:51:01,761 [INFO] 400 Bad Request
+2023-03-12 19:51:01,764 [INFO] try to access url: https://httpstat.us/400?sleep=5000
+2023-03-12 19:51:01,765 [INFO] https://httpstat.us/400?sleep=5000 returned status code 400
+2023-03-12 19:51:01,765 [INFO] 400 Bad Request
+2023-03-12 19:51:01,863 [INFO] try to access url: https://httpstat.us/500?sleep=5000
+2023-03-12 19:51:01,865 [INFO] https://httpstat.us/500?sleep=5000 returned status code 500
+2023-03-12 19:51:01,865 [INFO] 500 Internal Server Error
+2023-03-12 19:51:01,865 [INFO] try to access url: https://httpstat.us/404?sleep=5000
+2023-03-12 19:51:01,865 [INFO] https://httpstat.us/404?sleep=5000 returned status code 404
+2023-03-12 19:51:01,865 [INFO] 404 Not Found
+2023-03-12 19:51:01,873 [INFO] try to access url: https://httpstat.us/500?sleep=5000
+2023-03-12 19:51:01,873 [INFO] https://httpstat.us/500?sleep=5000 returned status code 500
+2023-03-12 19:51:01,873 [INFO] 500 Internal Server Error
+2023-03-12 19:51:57,023 [INFO] function_start
+2023-03-12 19:51:57,025 [INFO] generator is created
+2023-03-12 19:52:02,681 [INFO] try to access url: https://httpstat.us/400?sleep=5000
+2023-03-12 19:52:02,684 [INFO] 400
+2023-03-12 19:52:02,684 [INFO] try to access url: https://httpstat.us/400?sleep=5000
+2023-03-12 19:52:02,685 [INFO] 400
+2023-03-12 19:52:02,839 [INFO] try to access url: https://httpstat.us/301?sleep=5000
+2023-03-12 19:52:02,841 [INFO] 200
+2023-03-12 19:52:02,841 [INFO] try to access url: https://httpstat.us/301?sleep=5000
+2023-03-12 19:52:02,841 [INFO] 200
+2023-03-12 19:52:02,849 [INFO] try to access url: https://httpstat.us/301?sleep=5000
+2023-03-12 19:52:02,849 [INFO] 200
+2023-03-12 19:52:08,248 [INFO] try to access url: https://httpstat.us/404?sleep=5000
+2023-03-12 19:52:08,248 [INFO] 404
+2023-03-12 19:52:08,248 [INFO] try to access url: https://httpstat.us/200?sleep=5000
+2023-03-12 19:52:08,248 [INFO] 200
+2023-03-12 19:52:08,420 [INFO] try to access url: https://httpstat.us/400?sleep=5000
+2023-03-12 19:52:08,421 [INFO] 400
+2023-03-12 19:52:08,558 [INFO] try to access url: https://httpstat.us/301?sleep=5000
+2023-03-12 19:52:08,558 [INFO] 200
+2023-03-12 19:52:08,564 [INFO] try to access url: https://httpstat.us/301?sleep=5000
+2023-03-12 19:52:08,564 [INFO] 200
+2023-03-12 19:52:38,352 [INFO] function_start
+2023-03-12 19:52:38,354 [INFO] generator is created
+2023-03-12 19:52:44,032 [INFO] try to access url: https://httpstat.us/404?sleep=5000
+2023-03-12 19:52:44,032 [INFO] 404
+2023-03-12 19:52:44,034 [INFO] try to access url: https://httpstat.us/200?sleep=5000
+2023-03-12 19:52:44,035 [INFO] 200
+2023-03-12 19:52:44,036 [INFO] try to access url: https://httpstat.us/500?sleep=5000
+2023-03-12 19:52:44,036 [INFO] 500
+2023-03-12 19:52:44,037 [INFO] try to access url: https://httpstat.us/400?sleep=5000
+2023-03-12 19:52:44,037 [INFO] 400
+2023-03-12 19:52:44,037 [INFO] try to access url: https://httpstat.us/200?sleep=5000
+2023-03-12 19:52:44,038 [INFO] 200
+2023-03-12 19:52:49,600 [INFO] try to access url: https://httpstat.us/400?sleep=5000
+2023-03-12 19:52:49,604 [INFO] 400
+2023-03-12 19:52:49,604 [INFO] try to access url: https://httpstat.us/400?sleep=5000
+2023-03-12 19:52:49,605 [INFO] 400
+2023-03-12 19:52:49,605 [INFO] try to access url: https://httpstat.us/404?sleep=5000
+2023-03-12 19:52:49,605 [INFO] 404
+2023-03-12 19:52:49,605 [INFO] try to access url: https://httpstat.us/400?sleep=5000
+2023-03-12 19:52:49,605 [INFO] 400
+2023-03-12 19:52:49,617 [INFO] try to access url: https://httpstat.us/500?sleep=5000
+2023-03-12 19:52:49,617 [INFO] 500
+2023-03-19 10:19:09,446 [INFO] https://httpstat.us/400?sleep=5000: 400 (6.19 seconds)
+2023-03-19 10:19:09,452 [INFO] https://httpstat.us/404?sleep=5000: 404 (6.20 seconds)
+2023-03-19 10:19:09,454 [INFO] https://httpstat.us/404?sleep=5000: 404 (6.20 seconds)
+2023-03-19 10:19:09,456 [INFO] https://httpstat.us/500?sleep=5000: 500 (6.20 seconds)
+2023-03-19 10:19:09,460 [INFO] https://httpstat.us/500?sleep=5000: 500 (6.20 seconds)
+2023-03-19 10:19:15,070 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.57 seconds)
+2023-03-19 10:19:15,072 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.57 seconds)
+2023-03-19 10:19:15,077 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.58 seconds)
+2023-03-19 10:19:15,078 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.58 seconds)
+2023-03-19 10:19:15,236 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.74 seconds)
+2023-03-19 10:19:20,652 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.58 seconds)
+2023-03-19 10:19:20,662 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.58 seconds)
+2023-03-19 10:19:20,664 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.58 seconds)
+2023-03-19 10:19:20,669 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.59 seconds)
+2023-03-19 10:19:20,804 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.57 seconds)
+2023-03-19 10:19:26,300 [INFO] https://httpstat.us/500?sleep=5000: 500 (5.65 seconds)
+2023-03-19 10:19:26,303 [INFO] https://httpstat.us/500?sleep=5000: 500 (5.64 seconds)
+2023-03-19 10:19:26,305 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.64 seconds)
+2023-03-19 10:19:26,310 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.65 seconds)
+2023-03-19 10:19:26,373 [INFO] https://httpstat.us/500?sleep=5000: 500 (5.57 seconds)
+2023-03-19 10:19:31,925 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.62 seconds)
+2023-03-19 10:19:31,927 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.62 seconds)
+2023-03-19 10:19:31,929 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.62 seconds)
+2023-03-19 10:19:31,931 [INFO] https://httpstat.us/500?sleep=5000: 500 (5.62 seconds)
+2023-03-19 10:19:32,087 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.71 seconds)
+2023-03-19 10:19:37,545 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.61 seconds)
+2023-03-19 10:19:37,547 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.61 seconds)
+2023-03-19 10:19:37,549 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.62 seconds)
+2023-03-19 10:19:37,551 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.62 seconds)
+2023-03-19 10:19:37,648 [INFO] https://httpstat.us/500?sleep=5000: 500 (5.56 seconds)
+2023-03-19 10:19:43,164 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.61 seconds)
+2023-03-19 10:19:43,169 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.61 seconds)
+2023-03-19 10:19:43,172 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.62 seconds)
+2023-03-19 10:19:43,175 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.62 seconds)
+2023-03-19 10:19:43,213 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.56 seconds)
+2023-03-19 10:19:48,743 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.57 seconds)
+2023-03-19 10:19:48,745 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.58 seconds)
+2023-03-19 10:19:48,754 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.58 seconds)
+2023-03-19 10:19:48,773 [INFO] https://httpstat.us/500?sleep=5000: 500 (5.56 seconds)
+2023-03-19 10:19:48,901 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.73 seconds)
+2023-03-19 10:19:54,404 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.66 seconds)
+2023-03-19 10:19:54,407 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.63 seconds)
+2023-03-19 10:19:54,411 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.66 seconds)
+2023-03-19 10:19:54,472 [INFO] https://httpstat.us/500?sleep=5000: 500 (5.57 seconds)
+2023-03-19 10:19:54,563 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.82 seconds)
+2023-03-19 10:19:59,975 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.57 seconds)
+2023-03-19 10:19:59,988 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.58 seconds)
+2023-03-19 10:19:59,990 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.58 seconds)
+2023-03-19 10:20:00,035 [INFO] https://httpstat.us/500?sleep=5000: 500 (5.56 seconds)
+2023-03-19 10:20:00,135 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.57 seconds)
+2023-03-19 10:20:05,554 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.58 seconds)
+2023-03-19 10:20:05,604 [INFO] https://httpstat.us/500?sleep=5000: 500 (5.57 seconds)
+2023-03-19 10:20:05,699 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.71 seconds)
+2023-03-19 10:20:05,722 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.73 seconds)
+2023-03-19 10:20:05,845 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.71 seconds)
+2023-03-19 10:20:11,119 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.56 seconds)
+2023-03-19 10:20:11,208 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.60 seconds)
+2023-03-19 10:20:11,278 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.58 seconds)
+2023-03-19 10:20:11,291 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.57 seconds)
+2023-03-19 10:20:11,471 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.63 seconds)
+2023-03-19 10:20:16,728 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.61 seconds)
+2023-03-19 10:20:16,909 [INFO] https://httpstat.us/500?sleep=5000: 500 (5.70 seconds)
+2023-03-19 10:20:16,912 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.63 seconds)
+2023-03-19 10:20:17,220 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.75 seconds)
+2023-03-19 10:20:17,995 [INFO] https://httpstat.us/404?sleep=5000: 404 (6.70 seconds)
+2023-03-19 10:20:22,403 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.67 seconds)
+2023-03-19 10:20:22,498 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.59 seconds)
+2023-03-19 10:20:22,650 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.74 seconds)
+2023-03-19 10:20:22,826 [INFO] https://httpstat.us/500?sleep=5000: 500 (5.61 seconds)
+2023-03-19 10:20:23,581 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.59 seconds)
+2023-03-19 10:20:27,994 [INFO] https://httpstat.us/500?sleep=5000: 500 (5.59 seconds)
+2023-03-19 10:20:28,108 [INFO] https://httpstat.us/500?sleep=5000: 500 (5.61 seconds)
+2023-03-19 10:20:28,276 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.63 seconds)
+2023-03-19 10:20:28,466 [INFO] https://httpstat.us/500?sleep=5000: 500 (5.64 seconds)
+2023-03-19 10:20:29,190 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.61 seconds)
+2023-03-19 10:20:33,642 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.65 seconds)
+2023-03-19 10:20:33,729 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.62 seconds)
+2023-03-19 10:20:33,934 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.66 seconds)
+2023-03-19 10:20:34,048 [INFO] https://httpstat.us/500?sleep=5000: 500 (5.58 seconds)
+2023-03-19 10:20:34,897 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.71 seconds)
+2023-03-19 10:20:39,206 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.56 seconds)
+2023-03-19 10:20:39,436 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.71 seconds)
+2023-03-19 10:20:39,495 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.56 seconds)
+2023-03-19 10:20:39,610 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.56 seconds)
+2023-03-19 10:20:40,709 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.81 seconds)
+2023-03-19 10:20:44,772 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.56 seconds)
+2023-03-19 10:20:45,002 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.56 seconds)
+2023-03-19 10:20:45,060 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.56 seconds)
+2023-03-19 10:20:45,171 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.56 seconds)
+2023-03-19 10:20:46,268 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.56 seconds)
+2023-03-19 10:20:50,545 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.77 seconds)
+2023-03-19 10:20:50,566 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.56 seconds)
+2023-03-19 10:20:50,734 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.56 seconds)
+2023-03-19 10:20:50,800 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.74 seconds)
+2023-03-19 10:20:51,850 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.58 seconds)
+2023-03-19 10:20:56,126 [INFO] https://httpstat.us/500?sleep=5000: 500 (5.58 seconds)
+2023-03-19 10:20:56,131 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.56 seconds)
+2023-03-19 10:20:56,502 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.77 seconds)
+2023-03-19 10:20:56,506 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.71 seconds)
+2023-03-19 10:20:57,418 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.57 seconds)
+2023-03-19 10:20:57,419 [INFO] {'result': <Response [404]>, 'num': 0}
+2023-03-19 10:20:57,419 [INFO] {'result': <Response [500]>, 'num': 1}
+2023-03-19 10:20:57,419 [INFO] {'result': <Response [500]>, 'num': 2}
+2023-03-19 10:20:57,419 [INFO] {'result': <Response [500]>, 'num': 3}
+2023-03-19 10:20:57,419 [INFO] {'result': <Response [500]>, 'num': 4}
+2023-03-19 10:20:57,419 [INFO] {'result': <Response [200]>, 'num': 5}
+2023-03-19 10:20:57,419 [INFO] {'result': <Response [200]>, 'num': 6}
+2023-03-19 10:20:57,419 [INFO] {'result': <Response [404]>, 'num': 7}
+2023-03-19 10:20:57,419 [INFO] {'result': <Response [400]>, 'num': 8}
+2023-03-19 10:20:57,420 [INFO] {'result': <Response [500]>, 'num': 9}
+2023-03-19 10:20:57,420 [INFO] {'result': <Response [200]>, 'num': 10}
+2023-03-19 10:20:57,420 [INFO] {'result': <Response [400]>, 'num': 11}
+2023-03-19 10:20:57,420 [INFO] {'result': <Response [404]>, 'num': 12}
+2023-03-19 10:20:57,420 [INFO] {'result': <Response [404]>, 'num': 13}
+2023-03-19 10:20:57,420 [INFO] {'result': <Response [200]>, 'num': 14}
+2023-03-19 10:20:57,420 [INFO] {'result': <Response [200]>, 'num': 15}
+2023-03-19 10:20:57,420 [INFO] {'result': <Response [404]>, 'num': 16}
+2023-03-19 10:20:57,420 [INFO] {'result': <Response [200]>, 'num': 17}
+2023-03-19 10:20:57,420 [INFO] {'result': <Response [400]>, 'num': 18}
+2023-03-19 10:20:57,421 [INFO] {'result': <Response [404]>, 'num': 19}
+2023-03-19 10:20:57,421 [INFO] {'result': <Response [404]>, 'num': 20}
+2023-03-19 10:20:57,421 [INFO] {'result': <Response [200]>, 'num': 21}
+2023-03-19 10:20:57,421 [INFO] {'result': <Response [404]>, 'num': 22}
+2023-03-19 10:20:57,421 [INFO] {'result': <Response [200]>, 'num': 23}
+2023-03-19 10:20:57,421 [INFO] {'result': <Response [500]>, 'num': 24}
+2023-03-19 10:20:57,421 [INFO] {'result': <Response [500]>, 'num': 25}
+2023-03-19 10:20:57,421 [INFO] {'result': <Response [404]>, 'num': 26}
+2023-03-19 10:20:57,421 [INFO] {'result': <Response [404]>, 'num': 27}
+2023-03-19 10:20:57,421 [INFO] {'result': <Response [200]>, 'num': 28}
+2023-03-19 10:20:57,421 [INFO] {'result': <Response [200]>, 'num': 29}
+2023-03-19 10:20:57,422 [INFO] {'result': <Response [500]>, 'num': 30}
+2023-03-19 10:20:57,422 [INFO] {'result': <Response [200]>, 'num': 31}
+2023-03-19 10:20:57,422 [INFO] {'result': <Response [404]>, 'num': 32}
+2023-03-19 10:20:57,422 [INFO] {'result': <Response [400]>, 'num': 33}
+2023-03-19 10:20:57,422 [INFO] {'result': <Response [404]>, 'num': 34}
+2023-03-19 10:20:57,422 [INFO] {'result': <Response [200]>, 'num': 35}
+2023-03-19 10:20:57,422 [INFO] {'result': <Response [200]>, 'num': 36}
+2023-03-19 10:20:57,422 [INFO] {'result': <Response [500]>, 'num': 37}
+2023-03-19 10:20:57,422 [INFO] {'result': <Response [200]>, 'num': 38}
+2023-03-19 10:20:57,422 [INFO] {'result': <Response [200]>, 'num': 39}
+2023-03-19 10:20:57,423 [INFO] {'result': <Response [404]>, 'num': 40}
+2023-03-19 10:20:57,423 [INFO] {'result': <Response [400]>, 'num': 41}
+2023-03-19 10:20:57,423 [INFO] {'result': <Response [200]>, 'num': 42}
+2023-03-19 10:20:57,423 [INFO] {'result': <Response [200]>, 'num': 43}
+2023-03-19 10:20:57,423 [INFO] {'result': <Response [400]>, 'num': 44}
+2023-03-19 10:20:57,423 [INFO] {'result': <Response [400]>, 'num': 45}
+2023-03-19 10:20:57,423 [INFO] {'result': <Response [200]>, 'num': 46}
+2023-03-19 10:20:57,423 [INFO] {'result': <Response [400]>, 'num': 47}
+2023-03-19 10:20:57,423 [INFO] {'result': <Response [404]>, 'num': 48}
+2023-03-19 10:20:57,423 [INFO] {'result': <Response [404]>, 'num': 49}
+2023-03-19 10:20:57,423 [INFO] {'result': <Response [200]>, 'num': 50}
+2023-03-19 10:20:57,424 [INFO] {'result': <Response [200]>, 'num': 51}
+2023-03-19 10:20:57,424 [INFO] {'result': <Response [404]>, 'num': 52}
+2023-03-19 10:20:57,424 [INFO] {'result': <Response [500]>, 'num': 53}
+2023-03-19 10:20:57,424 [INFO] {'result': <Response [200]>, 'num': 54}
+2023-03-19 10:20:57,424 [INFO] {'result': <Response [500]>, 'num': 55}
+2023-03-19 10:20:57,424 [INFO] {'result': <Response [500]>, 'num': 56}
+2023-03-19 10:20:57,424 [INFO] {'result': <Response [400]>, 'num': 57}
+2023-03-19 10:20:57,424 [INFO] {'result': <Response [400]>, 'num': 58}
+2023-03-19 10:20:57,424 [INFO] {'result': <Response [404]>, 'num': 59}
+2023-03-19 10:20:57,424 [INFO] {'result': <Response [200]>, 'num': 60}
+2023-03-19 10:20:57,425 [INFO] {'result': <Response [200]>, 'num': 61}
+2023-03-19 10:20:57,425 [INFO] {'result': <Response [200]>, 'num': 62}
+2023-03-19 10:20:57,425 [INFO] {'result': <Response [200]>, 'num': 63}
+2023-03-19 10:20:57,425 [INFO] {'result': <Response [200]>, 'num': 64}
+2023-03-19 10:20:57,425 [INFO] {'result': <Response [200]>, 'num': 65}
+2023-03-19 10:20:57,425 [INFO] {'result': <Response [400]>, 'num': 66}
+2023-03-19 10:20:57,425 [INFO] {'result': <Response [500]>, 'num': 67}
+2023-03-19 10:20:57,425 [INFO] {'result': <Response [200]>, 'num': 68}
+2023-03-19 10:20:57,425 [INFO] {'result': <Response [500]>, 'num': 69}
+2023-03-19 10:20:57,425 [INFO] {'result': <Response [200]>, 'num': 70}
+2023-03-19 10:20:57,426 [INFO] {'result': <Response [404]>, 'num': 71}
+2023-03-19 10:20:57,426 [INFO] {'result': <Response [400]>, 'num': 72}
+2023-03-19 10:20:57,426 [INFO] {'result': <Response [404]>, 'num': 73}
+2023-03-19 10:20:57,426 [INFO] {'result': <Response [200]>, 'num': 74}
+2023-03-19 10:20:57,426 [INFO] {'result': <Response [400]>, 'num': 75}
+2023-03-19 10:20:57,426 [INFO] {'result': <Response [200]>, 'num': 76}
+2023-03-19 10:20:57,426 [INFO] {'result': <Response [400]>, 'num': 77}
+2023-03-19 10:20:57,426 [INFO] {'result': <Response [200]>, 'num': 78}
+2023-03-19 10:20:57,426 [INFO] {'result': <Response [200]>, 'num': 79}
+2023-03-19 10:20:57,426 [INFO] {'result': <Response [500]>, 'num': 80}
+2023-03-19 10:20:57,426 [INFO] {'result': <Response [400]>, 'num': 81}
+2023-03-19 10:20:57,427 [INFO] {'result': <Response [404]>, 'num': 82}
+2023-03-19 10:20:57,427 [INFO] {'result': <Response [400]>, 'num': 83}
+2023-03-19 10:20:57,427 [INFO] {'result': <Response [400]>, 'num': 84}
+2023-03-19 10:20:57,427 [INFO] {'result': <Response [404]>, 'num': 85}
+2023-03-19 10:20:57,427 [INFO] {'result': <Response [404]>, 'num': 86}
+2023-03-19 10:20:57,427 [INFO] {'result': <Response [200]>, 'num': 87}
+2023-03-19 10:20:57,427 [INFO] {'result': <Response [500]>, 'num': 88}
+2023-03-19 10:20:57,427 [INFO] {'result': <Response [404]>, 'num': 89}
+2023-03-19 10:20:57,427 [INFO] {'result': <Response [400]>, 'num': 90}
+2023-03-19 10:20:57,427 [INFO] {'result': <Response [200]>, 'num': 91}
+2023-03-19 10:20:57,428 [INFO] {'result': <Response [404]>, 'num': 92}
+2023-03-19 10:20:57,428 [INFO] {'result': <Response [200]>, 'num': 93}
+2023-03-19 10:20:57,428 [INFO] {'result': <Response [200]>, 'num': 94}
+2023-03-19 10:20:57,428 [INFO] {'result': <Response [400]>, 'num': 95}
+2023-03-19 10:20:57,428 [INFO] {'result': <Response [500]>, 'num': 96}
+2023-03-19 10:20:57,428 [INFO] {'result': <Response [500]>, 'num': 97}
+2023-03-19 10:20:57,428 [INFO] {'result': <Response [400]>, 'num': 98}
+2023-03-19 10:20:57,428 [INFO] {'result': <Response [400]>, 'num': 99}
+2023-03-19 10:22:37,881 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.69 seconds)
+2023-03-19 10:22:37,883 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.69 seconds)
+2023-03-19 10:22:37,885 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.69 seconds)
+2023-03-19 10:22:37,888 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.69 seconds)
+2023-03-19 10:22:37,890 [INFO] https://httpstat.us/400?sleep=5000: 400 (5.69 seconds)
+2023-03-19 10:22:43,460 [INFO] https://httpstat.us/500?sleep=5000: 500 (5.57 seconds)
+2023-03-19 10:22:43,463 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.58 seconds)
+2023-03-19 10:22:43,465 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.57 seconds)
+2023-03-19 10:22:43,471 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.58 seconds)
+2023-03-19 10:22:43,613 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.72 seconds)
+2023-03-19 10:22:49,122 [INFO] https://httpstat.us/500?sleep=5000: 500 (5.66 seconds)
+2023-03-19 10:22:49,124 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.66 seconds)
+2023-03-19 10:22:49,128 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.66 seconds)
+2023-03-19 10:22:49,176 [INFO] https://httpstat.us/500?sleep=5000: 500 (5.56 seconds)
+2023-03-19 10:22:49,270 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.81 seconds)
+2023-03-19 10:22:54,740 [INFO] https://httpstat.us/404?sleep=5000: 404 (5.61 seconds)
+2023-03-19 10:22:54,745 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.57 seconds)
+2023-03-19 10:22:54,747 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.62 seconds)
+2023-03-19 10:22:54,837 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.57 seconds)
+2023-03-19 10:22:54,899 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.78 seconds)
+2023-03-19 10:23:00,359 [INFO] https://httpstat.us/500?sleep=5000: 500 (5.61 seconds)
+2023-03-19 10:23:00,400 [INFO] https://httpstat.us/200?sleep=5000: 200 (5.56 seconds)
+2023-03-19 10:23:00,507 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.76 seconds)
+2023-03-19 10:23:00,618 [INFO] https://httpstat.us/301?sleep=5000: 200 (5.72 seconds)
+2023-03-19 10:23:01,477 [INFO] https://httpstat.us/301?sleep=5000: 200 (6.73 seconds)
+2023-03-19 10:23:01,477 [INFO] start
+2023-03-19 10:23:01,478 [INFO] {'result': <Response [200]>, 'num': 0}
+2023-03-19 10:23:01,478 [INFO] {'result': <Response [404]>, 'num': 1}
+2023-03-19 10:23:01,478 [INFO] {'result': <Response [200]>, 'num': 2}
+2023-03-19 10:23:01,478 [INFO] {'result': <Response [200]>, 'num': 3}
+2023-03-19 10:23:01,478 [INFO] {'result': <Response [400]>, 'num': 4}
+2023-03-19 10:23:01,478 [INFO] {'result': <Response [200]>, 'num': 5}
+2023-03-19 10:23:01,478 [INFO] {'result': <Response [500]>, 'num': 6}
+2023-03-19 10:23:01,478 [INFO] {'result': <Response [200]>, 'num': 7}
+2023-03-19 10:23:01,478 [INFO] {'result': <Response [400]>, 'num': 8}
+2023-03-19 10:23:01,478 [INFO] {'result': <Response [200]>, 'num': 9}
+2023-03-19 10:23:01,479 [INFO] {'result': <Response [200]>, 'num': 10}
+2023-03-19 10:23:01,479 [INFO] {'result': <Response [404]>, 'num': 11}
+2023-03-19 10:23:01,479 [INFO] {'result': <Response [404]>, 'num': 12}
+2023-03-19 10:23:01,479 [INFO] {'result': <Response [500]>, 'num': 13}
+2023-03-19 10:23:01,479 [INFO] {'result': <Response [200]>, 'num': 14}
+2023-03-19 10:23:01,479 [INFO] {'result': <Response [200]>, 'num': 15}
+2023-03-19 10:23:01,479 [INFO] {'result': <Response [400]>, 'num': 16}
+2023-03-19 10:23:01,479 [INFO] {'result': <Response [200]>, 'num': 17}
+2023-03-19 10:23:01,479 [INFO] {'result': <Response [500]>, 'num': 18}
+2023-03-19 10:23:01,479 [INFO] {'result': <Response [200]>, 'num': 19}
+2023-03-19 10:23:01,479 [INFO] {'result': <Response [400]>, 'num': 20}
+2023-03-19 10:23:01,480 [INFO] {'result': <Response [500]>, 'num': 21}
+2023-03-19 10:23:01,480 [INFO] {'result': <Response [200]>, 'num': 22}
+2023-03-19 10:23:01,480 [INFO] {'result': <Response [200]>, 'num': 23}
+2023-03-19 10:23:01,480 [INFO] {'result': <Response [200]>, 'num': 24}
+2023-03-19 10:23:01,480 [INFO] Total Execution Time: 0.00 seconds
